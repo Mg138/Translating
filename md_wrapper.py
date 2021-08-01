@@ -4,8 +4,9 @@ from shutil import move
 __template = Path('md_wrapper_template.html').read_text()
 
 
-def to_html(path: Path):
-    return __template.replace('{PATH}', path.__str__())
+def to_html(path: Path, relative: Path):
+    return __template.replace('{PATH}', relative.__str__()) \
+                     .replace('{NAME}', path.parent.name + '/' + path.name)
 
 
 def read_files(path: Path):
@@ -25,7 +26,7 @@ def main():
         move(file, directory.joinpath(name))
 
         index = directory.joinpath('index.html')
-        index.write_text(to_html(Path(name)))
+        index.write_text(to_html(directory, Path(name)))
 
 
 main()
