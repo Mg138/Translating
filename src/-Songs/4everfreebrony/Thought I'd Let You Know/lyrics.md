@@ -22,7 +22,7 @@ I hope you've been alright
 I'm eager just to know
 where, from this point, I go
 
-我想你也知道，你說的我都有做到
+我想你也知道，交朋友我都有做到
 'Cause I can tell you now, I've made my way around
 
 但我似乎未曾成長
@@ -50,7 +50,7 @@ My ink is running out
 as midnight comes around
 
 想想也說夠了，我應該寫的都寫了
-但一直都是缺回信
+反正一直都是缺回信
 I guess I'll close it up, I think I've said enough
 'cause I'm just waiting for you now
 
