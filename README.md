@@ -7,12 +7,8 @@
 This repo contains my personal translations. They're mostly pony songs.\
 There might also be shorts translations in the future.
 
-This repo uses Git Large File Storage.
-
 這個 repo 存放著我的個人翻譯。他們大部分都是小馬歌曲。\
 未來也有可能會有短篇翻譯。
-
-此 repo 使用 Git Large File Storage。
 
 # Chinese
 
