@@ -16,6 +16,9 @@ our bondage will then be undone
 
 ## 副歌
 
+嗚...
+Ooh...
+
 ## 主歌-2
 
 晨光終於到來，替我們擦乾淚珠
@@ -29,6 +32,9 @@ When morning is here to free us from fear
 I'll bury the chains that I wore
 
 ## 重複: 副歌
+
+啊...
+Ahh...
 
 ## 橋段
 
