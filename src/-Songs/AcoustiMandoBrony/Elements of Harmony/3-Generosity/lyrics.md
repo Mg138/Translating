@@ -20,7 +20,7 @@ Now you know she's looking fine
 All so divine, all so sublime
 
 她還要工作
-及時補一針才不會鬧災難
+你不知道針要趕快補？
 She gets to work
 Don't you know a stitch in time saves nine?
 
@@ -33,7 +33,7 @@ you know there's something here to be found
 
 心中湧出美麗
 如同鑽戒一般
-a lush beauty
+the lush beauty
 like a diamond ring
 
 它是如此的珍奇
@@ -83,8 +83,8 @@ until we all have to go home
 Now come watch the moonlight
 reflect off her sapphire eyes
 
-我要跟你在一起到永遠
-我們的關係只會越來越親密
+我要跟你在一起到永遠－
+－我們的關係只會越來越親密
 I'll stick by you forever and every single day-
 -to forge and reinforce the bonds that tie us
 
@@ -96,7 +96,7 @@ This is the best possible thing
 她會在這等著你們
 一起大聲唱出來
 She'll be here waiting
-for you to all break out and sing
+for you all to break out and sing
 
 ## 樂器獨奏
 
@@ -110,7 +110,7 @@ as I lay my head down to slumber
 我把時間編在一起 - (她把時間編在一起)
 好像一件華麗的洋裝般
 I weave through time - (She weaves through time)
-like a dress on design, it's true
+like a dress in design, it's true
 
 我要對你展現我的慷慨心 - (希望我能對你展現慷慨心)
 Just know I could be generous to you - (I wish I could be generous to you)
@@ -124,7 +124,7 @@ I know there's something there to be found
 
 心中湧出美麗
 如同鑽戒一般
-a lush beauty
+the lush beauty
 like a diamond ring
 
 它是如此的珍奇
