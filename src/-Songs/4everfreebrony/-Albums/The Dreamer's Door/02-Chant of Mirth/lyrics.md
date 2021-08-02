@@ -24,8 +24,8 @@ so truly seen in happiness.
 With one mind, we can make, we can live
 With a life, one can take, one can give
 
-我們被歡笑聲帶領著
-我們也帶領著歡笑聲
+我們歡笑，分享著我們的一切
+人的聲音，可以如塵，可以如鐘
 We rejoice, lending all we possess
 With a voice, one can lift or depress
 
@@ -41,8 +41,8 @@ In happiness
 In this dream, there is no room for spite
 Still it seems, only I can decide
 
-我迷了路，好像與世界脫軌般
-在我眼裡，萬物是都如此冰冷
+我迷了路，但卻不用待在世間
+在我眼裡，那是冰冷，那是蒼涼
 I am lost, but am free of the world
 For outside, all is bleak, all is cold
 

@@ -7,7 +7,7 @@
 September Blue, thy sorrows be forgotten
 October Auburn, let this season pass
 
-十一之灰，以汝雨水埋沒
+十一之灰，以汝雨水恢復
 十二之白，汝之美永留存
 November Gray, restore with thy rain
 December White, thy beauty ever last
@@ -26,7 +26,7 @@ Sign of one's true form
 To grow, only small
 Giving guidance for all
 
-有誰能真正看清
+有誰能真正看懂
 Seen while hardly known
 
 ## 重複: 副歌
@@ -55,5 +55,5 @@ Walk where time has torn
 (十二之白) 十二之白
 (December White) December White
 
-(汝之美...) 汝之美永留存
-(Thy beauty e...) Thy beauty ever last
+(汝之美永留存) 汝之美永留存
+(Thy beauty ever last) Thy beauty ever last
