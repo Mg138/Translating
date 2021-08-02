@@ -4,13 +4,13 @@
 
 ## 主歌-1
 
-有可能從此一蹶不振
-就這麼倒地不起
+有可能就這樣跌個倒
+就再也起不來
 There's a chance that I could fall
 and not come back
 
 也不想怎麼脫離困境
-改變也遙不可及
+改變遙不可及
 and never regret a thing
 I'd never get back on track
 
@@ -32,7 +32,7 @@ The bitterness and pain inside
 countless tears I had to cry
 
 我曾面對這些恐懼
-只為等你替我擦眼淚，但－
+只為等你替我擦眼淚，但－－
 I was facing all my fears
 just to let you in to dry my tears, but--
 
@@ -61,7 +61,7 @@ your song of kindness
 ## 主歌-2
 
 看著你找到寧靜
-教會了我怎麼自己找
+教會了我怎麼自己來
 Quiet grace surrounds you
 and helps me find my own
 
@@ -88,7 +88,7 @@ I will never get upset
 and I will never, ever forget
 
 你帶給我的幸福
-好像你是真實存在般...但－
+好像你是真實存在般...但－－
 The happiness you made me feel
 almost as if you're actually real...but--
 

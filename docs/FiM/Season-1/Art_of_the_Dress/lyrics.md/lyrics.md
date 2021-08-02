@@ -21,7 +21,7 @@ Making sure the clothes' correctly facing
 I'm stitching Twilight's dress
 
 一尺一寸，要注意好細節
-珠寶項鍊，及時補一針才不會鬧災難
+珠寶項鍊，你不知道針要趕快補？
 Yard by yard, fussing on the details
 Jewel neckline, don't you know a stitch in time saves nine?
 

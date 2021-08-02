@@ -12,7 +12,7 @@ I will never lose the spark
 that keeps me going when I'm low
 
 大家都問我如何做到
-才能維持臉上的微笑
+才能撐過這麼多難關
 Everybody asks me how
 I get by when I get down
 
@@ -47,7 +47,7 @@ If you're lost and afraid
 all the good times will fade
 just follow the sound
 
-就追隨那歡笑聲
+追隨那歡笑聲
 Follow the sound of laughter
 
 ## 間奏
@@ -102,21 +102,21 @@ YEAH!
 
 ## 副歌-2
 
-我們能戰勝恐懼，
+我們會戰勝恐懼，
 只要你保持笑容
 喜極而泣不難
-We can conquer our fears,
+We will conquer our fears,
 laugh until happy tears
 fall to the ground
 
 有你們這群朋友，
 我們不會迷失方向
-就追隨那聲音
+只要追隨那聲音
 With the friends that we've made
 I know we'll never stray
 if we follow the sound
 
-就追隨那歡笑聲
+追隨那歡笑聲
 Follow the sound of laughter
 
 ## 結尾
