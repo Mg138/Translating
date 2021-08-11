@@ -10,14 +10,13 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: D:/Files/Projects/Translating/src/-Songs/4everfreebrony/-Albums/The Dreamer's Door/03-Chant of Benevolence/assets/source/Chant of Benevolence.mp4
-Video File: D:/Files/Projects/Translating/src/-Songs/4everfreebrony/-Albums/The Dreamer's Door/03-Chant of Benevolence/assets/source/Chant of Benevolence.mp4
+Audio File: assets/source/Chant of Benevolence.mp4
+Video File: assets/source/Chant of Benevolence.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.875000
 Scroll Position: 18
 Active Line: 27
-Video Position: 715
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +51,7 @@ Dialogue: 0,0:02:29.59,0:02:36.47,Default,,0,0,0,,{\fad(400,400)}Walk where time
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,## 重複: 副歌
 Dialogue: 0,0:02:37.67,0:02:45.88,Default,,0,0,0,,{\fad(400,400)}September Blue, thy sorrows be forgotten\N九月之靛，汝之憂被淡忘
 Dialogue: 0,0:02:46.31,0:02:53.99,Default,,0,0,0,,{\fad(400,400)}October Auburn, let this season pass\N十月之紅，讓這季節過去
-Dialogue: 0,0:02:54.39,0:03:03.00,Default,,0,0,0,,{\fad(400,400)}November Gray, restore with thy rain\N十一之灰，以汝雨水恢復
+Dialogue: 0,0:02:54.39,0:03:03.00,Default,,0,0,0,, {\fad(400,400)}November Gray, restore with thy rain\N十一之灰，以汝雨水恢復
 Dialogue: 0,0:03:03.26,0:03:10.90,Default,,0,0,0,,{\fad(400,400)}December White, thy beauty ever last\N十二之白，汝之美永留存
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,## 間奏
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,## 尾奏
