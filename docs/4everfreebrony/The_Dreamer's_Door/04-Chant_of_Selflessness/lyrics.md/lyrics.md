@@ -34,17 +34,17 @@ with night-like hair and skin so white
 不論她到哪，都對大家說
 「雖是己所有，爾可當己用」
 Wherever she went, everyone she'd tell
-"What appears as mine, 'tis thine as well"
+"What'd appear as mine, 'tis thine as well"
 
 ## 主歌-2
 
 她旅行四方，捐出她所有
 從來沒想過要拿回來
-So she went through the world giving all she had
+So she went through the world, giving all she had
 never feeling the need to claim it back
 
 不論她到哪，大家都臣服
-「雖是己所有，爾可當己用」
+「似是己所有，爾可當己用」
 Everyone she'd meet would befall her spell
 "What appears as mine, 'tis thine as well"
 
