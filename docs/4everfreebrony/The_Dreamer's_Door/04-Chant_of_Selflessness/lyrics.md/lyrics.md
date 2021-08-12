@@ -1,5 +1,7 @@
 # Chant of Selflessness 無私之歌
 
+## 前奏
+
 ## 副歌
 
 他相信道理簡單明瞭
@@ -23,6 +25,8 @@ Some give a stone for a diamond
 而也有人什麼都不說
 Some keep all things for their own
 And some remain in silence
+
+## 間奏
 
 ## 主歌-1
 
@@ -60,4 +64,8 @@ Living the ways of a nursery rhyme
 Humming the tune of a ringing bell
 What appears as mine, 'tis thine as well
 
+## 間奏
+
 ## 重複: 副歌
+
+## 尾奏
