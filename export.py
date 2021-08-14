@@ -73,6 +73,8 @@ def read_files() -> List[Path]:
         paths.append(path)
     for path in src.rglob('*.url'):
         paths.append(path)
+    for path in src.rglob('*.desktop'):
+        paths.append(path)
 
     return paths
 
