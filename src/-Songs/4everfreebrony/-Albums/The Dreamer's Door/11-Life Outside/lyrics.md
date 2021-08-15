@@ -1,25 +1,25 @@
-# Life Outside 外面的生活
+# Life Outside 外頭的生活
 
 ## 主歌-1
 
 (4everfreebrony)
-那麼應該有這麼個世界
+應該有這麼個世界
 There's a world that should be real somewhere
 
-有我們沒有的關懷和愛
+缺少緊張，愛遍世間
 There's a lack of tension and love to spare
 
-我總是希望我曾經去過
+真希望我曾經去過
 I would tell you that I'd been before
 
-不過就在逐夢之門身後
+他就在逐夢之門身後
 It was just behind the dreamer's door
 
 就在逐夢之門身後
 Just behind the dreamer's door
 
 (Luna Jax)
-七色的大地和如畫般的天
+如畫般的地和七彩般的天
 那兒的景色絕對會你驚豔
 Painted hills and colored skies
 A wondrous view that simply strikes the heart
@@ -31,7 +31,7 @@ There's one who holds the stars in place
 Another who keeps it all from falling apart
 
 (P1K)
-每天遵循著一樣的規律
+每天走著一樣的規律
 但他們就是這樣
 The same routine runs every day
 but that's just who they are
@@ -39,12 +39,12 @@ but that's just who they are
 ## 副歌
 
 (Black Gryph0n)
-那牆外面的生活
-只希望我夢見過
+那牆外頭的生活
+只希望我曾經夢過
 Life outside of the wall
 I would say I'd dreamed it
 
-只要一次，但其實
+我只要一次，但老實說
 我也很難說沒有
 real one time, if at all
 I could hardly tell you
@@ -73,7 +73,7 @@ The other one knows the best ways to have fun
 
 (Manta Tsubasa)
 安靜的她雖還很迷茫
-但她已找到她的志向
+她已找到她的志向
 The quiet one's still searching but
 she knows who she'll become
 
@@ -101,11 +101,11 @@ There's a girl who wants to do her best
 到完美前她都不會睡覺
 'Til she has it, she won't stop or rest
 
-不知道未來會發生什麼
+不知道它會藏著什麼
 Doesn't know just what there is in store
 
-那逐夢之門身後有什麼
+逐夢之門身後有什麼
 What there is behind the dreamer's door
 
-那逐夢之門身後有什麼
+逐夢之門身後有什麼
 What there is behind the dreamer's door
