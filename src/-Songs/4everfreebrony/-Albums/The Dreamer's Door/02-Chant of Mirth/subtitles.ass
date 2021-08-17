@@ -10,14 +10,13 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: D:/Files/Projects/Translating/src/-Songs/4everfreebrony/-Albums/The Dreamer's Door/02-Chant of Mirth/assets/source/Chant of Mirth.mkv
-Video File: D:/Files/Projects/Translating/src/-Songs/4everfreebrony/-Albums/The Dreamer's Door/02-Chant of Mirth/assets/source/Chant of Mirth.mkv
+Audio File: assets/source/Chant of Mirth.mkv
+Video File: assets/source/Chant of Mirth.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.250000
 Scroll Position: 18
-Active Line: 35
-Video Position: 7212
+Active Line: 22
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
