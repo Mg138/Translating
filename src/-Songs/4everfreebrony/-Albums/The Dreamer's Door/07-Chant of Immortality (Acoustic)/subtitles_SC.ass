@@ -16,11 +16,11 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Active Line: 4
-Video Position: 5055
+Video Position: 6217
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Noto Serif CJK TC Medium,70,&H00EBACC9,&H000000FF,&H00000000,&H002F2F2F,0,0,0,0,100,100,0,0,1,2,4,2,10,10,20,1
+Style: Default,Noto Serif CJK TC Medium,80,&H00EBACC9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,4,2,10,10,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
