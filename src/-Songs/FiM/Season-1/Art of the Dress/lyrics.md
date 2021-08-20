@@ -1,4 +1,4 @@
-# Art of the Dress 服裝的藝術
+# Art of the Dress 服裝藝術
 
 ## 主歌-1
 
@@ -12,7 +12,7 @@ Twilight's dress, cutting out the pattern snip by snip
 Making sure the fabric folds nicely
 It's the perfect color and so hip
 
-要好好一步一步慢慢來
+要好好一步一步來
 確保線有縫對方向
 Always gotta keep in mind my pacing
 Making sure the clothes' correctly facing
@@ -25,8 +25,8 @@ I'm stitching Twilight's dress
 Yard by yard, fussing on the details
 Jewel neckline, don't you know a stitch in time saves nine?
 
-給他我最完美的選擇
-就算她討厭這些正式裝扮
+給她我最完美的選擇
+就算她討厭正式裝扮
 Make her something perfect to inspire
 even though she hates formal attire
 
@@ -44,11 +44,11 @@ Dressmaking is easy, for Pinkie Pie something pink
 Fluttershy something breezy
 
 顏色溶入衣服
-你會不會覺得很俗？
+你會不會覺得這很俗？
 Blend color and form,
 do you think it looks cheesy?
 
-來點傲氣，也許也來點亮眼
+來點傲氣，也許來些豔麗
 勾在一起，你覺不覺得超好看？
 Something brash, perhaps quite fetching
 Hook and eye, couldn't you just simply die?
@@ -80,12 +80,12 @@ Thread by thread, primmed and pressed
 一尺一寸，不曾困難
 Yard by yard, never stressed
 
-這就是服裝的藝術！
+這就是服裝藝術！
 And that's the art of the dress!
 
 ## 對話: Twilight
 
-我跟你講，衣服上的星座都要完全正確
+我說啊，衣服上的星座都要完全正確
 獵戶座的腰帶有三顆星星，不是四顆
 Now, the stars on my belt need to be technically accurate
 Orion has three stars on his belt, not four
@@ -224,7 +224,7 @@ It needs to be about twenty percent cooler
 ## 橋段-2
 
 我們就是猶豫不決
-我們只知道漂亮就好
+我們只知道喜歡就好
 All we ever want is indecision
 All we really like is what we know
 
@@ -239,7 +239,7 @@ Even if you simply have to fudge it
 Make sure that it stays within our budget
 
 沒有時間怕東怕西
-這些還要出去見人！
+這些東西還要出去見人！
 Got to overcome intimidation
 Remember, it's all in the presentation!
 
@@ -257,5 +257,5 @@ Bolt by bolt, primmed and pressed
 一尺一寸，如此困難
 Yard by yard, always stressed
 
-這就是服裝的藝術！
+這就是服裝藝術！
 And that's the art of the dress!
