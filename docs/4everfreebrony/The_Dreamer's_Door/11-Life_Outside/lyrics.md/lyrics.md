@@ -39,13 +39,13 @@ but that's just who they are
 ## 副歌
 
 (Black Gryph0n)
-那牆外頭的生活
+那堵牆外頭的生活
 只希望我曾經夢過
 Life outside of the wall
 I would say I'd dreamed it
 
 我只要一次，但老實說
-我也很難說沒有
+我也很難說沒有過
 real one time, if at all
 I could hardly tell you
 
