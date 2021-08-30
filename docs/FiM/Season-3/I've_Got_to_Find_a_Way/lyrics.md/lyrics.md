@@ -1,6 +1,6 @@
-# I've Got to Find a Way 我得想出方法
+# I've Got to Find a Way 我得找到方法
 
-我得想出方法
+我得找到方法
 讓一切回復正常
 I have to find a way
 to make this all okay
