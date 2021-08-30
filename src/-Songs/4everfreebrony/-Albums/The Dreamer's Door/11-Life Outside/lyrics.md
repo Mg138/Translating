@@ -12,7 +12,7 @@ There's a lack of tension and love to spare
 真希望我曾經去過
 I would tell you that I'd been before
 
-他就在逐夢之門身後
+它就在逐夢之門身後
 It was just behind the dreamer's door
 
 就在逐夢之門身後
@@ -42,7 +42,7 @@ but that's just who they are
 那堵牆外頭的生活
 只希望我曾經夢過
 Life outside of the wall
-I would say I'd dreamed it
+I could say I'd dreamed it
 
 我只要一次，但老實說
 我也很難說沒有過
@@ -66,8 +66,8 @@ There's one who works until sundown
 Another who sees the beauty in everyone
 
 (dBPony)
-有人把天空視為心肺
-有人樂子永遠找不完
+他呀，把天空視為心肺
+這位則樂子永遠找不完
 This one takes the sky to heart
 The other one knows the best ways to have fun
 
@@ -107,5 +107,5 @@ Doesn't know just what there is in store
 逐夢之門身後有什麼
 What there is behind the dreamer's door
 
-逐夢之門身後有什麼
-What there is behind the dreamer's door
+就在逐夢之門身後
+Just behind the dreamer's door
