@@ -1,5 +1,7 @@
 # Without Me 少了我
 
+## 前奏
+
 ## 主歌-1
 
 這渺小的鎮
@@ -55,6 +57,8 @@ we'll never meet again
 'Cause even without me,
 you have your other friends
 
+## 間奏
+
 ## 主歌-2
 
 我總好奇
@@ -90,3 +94,6 @@ is my "Once upon a time"
 
 ## 重複: 副歌
 
+## 間奏
+
+## 尾奏

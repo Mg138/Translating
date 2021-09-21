@@ -1,6 +1,6 @@
 # Life Outside 外頭的生活
 
-## 主歌-1
+## 前奏
 
 (4everfreebrony)
 應該有這麼個世界
@@ -17,6 +17,10 @@ It was just behind the dreamer's door
 
 就在逐夢之門身後
 Just behind the dreamer's door
+
+## 間奏
+
+## 主歌-1
 
 (Luna Jax)
 如畫般的地和七彩般的天
@@ -109,3 +113,5 @@ What there is behind the dreamer's door
 
 就在逐夢之門身後
 Just behind the dreamer's door
+
+## 尾奏
