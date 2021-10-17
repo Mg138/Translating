@@ -1,3 +1,5 @@
+#!/usr/bin/sh
+
 echo Commit message: 
 
 read message
