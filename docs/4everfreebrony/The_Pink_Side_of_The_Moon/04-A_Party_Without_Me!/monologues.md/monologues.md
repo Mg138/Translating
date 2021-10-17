@@ -15,7 +15,7 @@ I mean, you-- you just don't DO that!!
 哼！
 Hmmm!
 
-但誰在乎呢？好像他們得遵守這些規則一樣...
+但管這麼多？講的好像他們得遵守一樣...
 But who cares? It's not like they need to follow that rule NOW...
 
 嗯，我，Pinkamena Diane Pie, 定了這些規則。
@@ -26,3 +26,4 @@ And if I, Pinkamena Diane Pie, am not there at all, then they won't HAVE to foll
 
 這是個雙贏。他們在下面很好的話，我在，這邊，也很好！
 It's a double-win. They're fine down THERE, and I am fine. Right. HERE!
+

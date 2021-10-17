@@ -9,7 +9,7 @@ and I found myself no different.
 我也發現孤單可以治好我的忌妒心。
 I had also figured that being alone would be the answer to my jealousy.
 
-真是完美。我找到了答案；一個我可以獨處的地方，但又不是完全失落。
+真是完美。我終於找到了：一個我可以獨處的地方，又不會不知道要幹嘛。
 It was perfect. I had found it; the place where I could be alone, but not truly lost.
 
 一個我可以感到開心的地方，即使遠離了朋友；
