@@ -9,7 +9,7 @@
 | A Party Without Me!      | 沒邀我的派對！   |
 | Here On The Moon         | 在這月球上       |
 | Galactic Getaway         | 星際渡假         |
-| Come Undone              | <WIP>            |
+| Come Undone              | 終將打開         |
 | Reality                  | 現實             |
 | Still On The Moon        | 還在月球上       |
 | A Message from Home      | 家的訊息         |
