@@ -1,8 +1,8 @@
-# Notice
+# 公告 / Notice
 
 ## [Easier Browsing / 更好的瀏覽](https://mg138.github.io/Translating/)
 
-# About
+# 簡介 / About
 
 This repo contains my personal translations. They're mostly pony songs.\
 There might also be shorts translations in the future.
