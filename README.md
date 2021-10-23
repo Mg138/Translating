@@ -10,7 +10,7 @@ There might also be shorts translations in the future.
 這個 repo 存放著我的個人翻譯。他們大部分都是小馬歌曲。\
 未來也有可能會有短篇翻譯。
 
-# Chinese
+# 中文 / Chinese
 
 ## 連結
 
@@ -46,7 +46,7 @@ Discord: Twinkle Sprinkle#5806
 我的翻譯並不會給我帶來收入，不論直接或間接。\
 我的所有翻譯皆遵循 `CC BY NC SA` 條款，這並不包含原始之著作。
 
-# English
+# 英文 / English
 
 ## Links
 
