@@ -1,8 +1,8 @@
-# Notice
+# 公告 / Notice
 
 ## [Easier Browsing / 更好的瀏覽](https://mg138.github.io/Translating/)
 
-# About
+# 簡介 / About
 
 This repo contains my personal translations. They're mostly pony songs.\
 There might also be shorts translations in the future.
@@ -10,7 +10,7 @@ There might also be shorts translations in the future.
 這個 repo 存放著我的個人翻譯。他們大部分都是小馬歌曲。\
 未來也有可能會有短篇翻譯。
 
-# Chinese
+# 中文 / Chinese
 
 ## 連結
 
@@ -32,8 +32,8 @@ There might also be shorts translations in the future.
 我是個來自台灣的程式設計師，同時也是個半自學的英文使用者。\
 有一半都是從翻譯來的，另外一半則是跟網路上的人聊天。\
 （如果你想知道為啥只有半自學的話，那是因為我還是有在國中上過英文。）\
-我也是個跨性別 pegasister 跟一個書呆子。\
-大概是為什麼我都翻譯小馬跟科技相關的東西吧，
+我也是個跨性別 pegasister 跟一個書呆子，\
+大概是為什麼我都翻譯小馬跟科技相關的東西吧。
 
 ## 聯繫我
 
@@ -46,7 +46,7 @@ Discord: Twinkle Sprinkle#5806
 我的翻譯並不會給我帶來收入，不論直接或間接。\
 我的所有翻譯皆遵循 `CC BY NC SA` 條款，這並不包含原始之著作。
 
-# English
+# 英文 / English
 
 ## Links
 
