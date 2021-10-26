@@ -11,7 +11,7 @@
 | Galactic Getaway         | 星際渡假         |
 | Come Undone              | 終將打開         |
 | Reality                  | 現實             |
-| Still On The Moon        | 還在月球上       |
+| Still On The Moon        | 還在月球         |
 | A Message from Home      | 家的訊息         |
 | Who Am I?                | 我是誰？         |
 | Ten-Hundred Miles        | 一千里遠         |
