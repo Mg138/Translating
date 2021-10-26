@@ -78,6 +78,8 @@ and not look back, and not know where to go?
 
 ## 間奏
 
+## 間奏
+
 ## 主歌-3
 
 分隔的世界
