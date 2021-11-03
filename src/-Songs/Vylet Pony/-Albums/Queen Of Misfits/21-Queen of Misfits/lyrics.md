@@ -7,8 +7,8 @@
 Oh, it's murder,
 the way you tell me off like it's alright
 
-即使你再怎麼難過
-卻還是想幫我加油
+但即使再怎麼難過
+你卻還想幫我加油
 and even at your worst,
 you strengthen my will to fight
 
@@ -55,7 +55,7 @@ would be ok
 ## 導歌
 
 因為我就是錯位女王
-他媽不管你怎麼說
+他媽不管你怎麼講
 'Cause I'm the queen of misfits,
 don't give a fuck what you say
 

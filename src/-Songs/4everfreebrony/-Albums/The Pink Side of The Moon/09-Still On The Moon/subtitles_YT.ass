@@ -15,12 +15,12 @@ Video File: assets/source/Still On The Moon.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 46
+Active Line: 4
 Video Position: 6765
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Monotype Corsiva,68,&H00E58EDA,&H000000FF,&H00F1F1F1,&H00F1F1F1,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Comic Sans MS,68,&H00E58EDA,&H000000FF,&H00F1F1F1,&H00F1F1F1,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
