@@ -46,7 +46,7 @@ Seems that I've been lying to myself
 it's never been so hard
 
 我的蹄子好像帶我走太過
-and I think my hooves taken me too far
+and I think my hooves have taken me too far
 
 我想我該停下，聽聽我的想法
 Guess it's time I stopped and listened to my heart
@@ -109,7 +109,7 @@ Can you--
 
 ## 橋段
 
-(兩邊)
+(眾小馬)
 現在，看來我們終於能夠回家
 Here are we flying home together
 
