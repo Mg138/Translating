@@ -35,13 +35,13 @@ But I can feel
 所以我還在這
 so I am real
 
-那要不在太深之前逃離
+那不如在太深之前逃離
 so let's escape before we're in too deep
 
 ## 導歌-1
 
-所以，帶
-我回到一切的起點
+所以
+帶我回到一切的起點
 So take
 me back to where it all began
 
@@ -62,16 +62,19 @@ it has to end
 
 ## 副歌
 
+喔...
 Woah...
 
 就再一次舉起雙手
 Raise your hands just one more time
 
+喔...
 Woah...
 
-我們會在來生什麼的見面
+我們就約在來生見面
 I'll see you in some other life
 
+喔...
 Woah...
 
 天空下著束束光線
@@ -79,52 +82,75 @@ The atmosphere is raining light
 
 Woah...
 
-我們會在來生什麼的見面
+我們就約在來生見面
 I'll see you in some other life
 
 ## 主歌-2
 
+我們將啟航
 We're setting sail
 
+飛過這夜空
 across the sky
 
+天上星座，他們會指路
 the constellations, they will be our guide
 
+而突然之間
 And suddenly
 
+我們的承諾
 our promises
 
+都成為一段消逝的旋律
 are just a melody that slipped our mind
 
+但我們也許
 But maybe we
 
+會再次相遇
 will meet again
 
+當星群們結成一條直線
 when all the stars align a path someday
 
-But as we are // (setting sail)
+但現在看來
+But as we are
 
+飄散的星群
 the scattered stars
 
+正拖著我們到銀河系對方
 are spreading us across the Milky Way
 
 ## 導歌-2
 
+人生如派對
+與心一起振動
 Life's a party
 pounding in a heartbeat
 
+我這樣知道
 That's all I know
 
+但如果你肯
+仔細聆聽
 But if you
 listen real close
 
+每一拍都會治癒
+你靈魂的破口
 every beat will heal those
 scars on your soul
 
+因為，噢...
 Cause, oh...
 
+人生，苦短
+但最後還是值得
 life, it hurts, but
 in the end it's worth it
+
 
 Joy through the tears
 
