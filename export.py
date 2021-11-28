@@ -116,7 +116,7 @@ def main():
         parents.reverse()
 
         destination = export(parents, export_path)
-        copied = shutil.copy(path, destination)
+        copied = shutil.copy2(path, destination)
         os.rename(copied, rename(Path(copied), name))
 
 
