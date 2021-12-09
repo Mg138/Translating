@@ -16,9 +16,17 @@ def read_files(path: Path):
 def main():
     path = Path('docs')
     files = read_files(path)
+
     for file in files:
         name = file.name
         directory = file
+
+        filedata = file.read_text()
+
+        # fix newline
+        filedata = filedata.replace('\n\n\n', '\n\n<br>\n')
+
+        file.write_text(filedata)
 
         file = file.rename('__temp')
 
