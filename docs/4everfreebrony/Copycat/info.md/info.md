@@ -14,4 +14,3 @@
 |                  |          |
 |                  |          |
 | A Final Twilight | 暮光之終 |
-

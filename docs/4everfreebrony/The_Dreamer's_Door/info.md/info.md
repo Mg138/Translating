@@ -13,4 +13,3 @@
 | Chant of Benevolence (Acoustic) | 仁愛之歌（原聲版）   |
 | Chant of Immortality (Concert)  | 永生之歌（演唱會版） |
 | Life Outside                    | 外頭的生活           |
-
