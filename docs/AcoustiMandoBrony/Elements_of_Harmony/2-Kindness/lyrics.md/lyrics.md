@@ -12,7 +12,7 @@ There's a chance that I could fall
 
 and not come back
 
-
+<br>
 
 也不想怎麼脫離困境
 
@@ -22,7 +22,7 @@ and never regret a thing
 
 I'd never get back on track
 
-
+<br>
 
 前方濃霧一片
 
@@ -32,7 +32,7 @@ Darkness all around me
 
 I can't find the light
 
-
+<br>
 
 任由黑暗蒙蔽雙眼
 
@@ -52,7 +52,7 @@ The bitterness and pain inside
 
 countless tears I had to cry
 
-
+<br>
 
 我曾面對這些恐懼
 
@@ -72,7 +72,7 @@ Your kindness won't betray me
 
 I feel your heart and soul
 
-
+<br>
 
 你的仁慈能拯救我
 
@@ -82,7 +82,7 @@ Your kindness still can save me
 
 I choose to not let go
 
-
+<br>
 
 伸出手，你勾住我心
 
@@ -92,7 +92,7 @@ Stretching out you somehow reach me
 
 I know this can't be wrong
 
-
+<br>
 
 我準備好了，請你教我
 
@@ -112,7 +112,7 @@ Quiet grace surrounds you
 
 and helps me find my own
 
-
+<br>
 
 不知你怎麼幫的
 
@@ -122,7 +122,7 @@ I can't tell you how you've helped me
 
 and how much I have grown
 
-
+<br>
 
 即使你是如此遙遠
 
@@ -132,7 +132,7 @@ Even though you're far away
 
 inspiration comes from you
 
-
+<br>
 
 每天都要越來越正面！
 
@@ -152,7 +152,7 @@ I will never get upset
 
 and I will never, ever forget
 
-
+<br>
 
 你帶給我的幸福
 
@@ -176,7 +176,7 @@ Your kindness won't betray me
 
 I feel your heart and soul
 
-
+<br>
 
 你的仁慈能拯救我
 
@@ -196,7 +196,7 @@ Your kindness won't betray me
 
 I feel your heart and soul
 
-
+<br>
 
 你的仁慈能拯救我
 
@@ -206,7 +206,7 @@ Your kindness still can save me
 
 I choose to not let go
 
-
+<br>
 
 伸出手，你勾住我心
 
@@ -216,7 +216,7 @@ Stretching out you somehow reach me
 
 I know this can't be wrong
 
-
+<br>
 
 我準備好了，請你教我
 
@@ -236,7 +236,7 @@ Even when the cold wind's blowing
 
 and I want to just give in
 
-
+<br>
 
 只要聽到你的歌聲
 
@@ -246,7 +246,7 @@ It warms my heart just knowing
 
 I'll hear your voice again
 
-
+<br>
 
 你何不大聲唱
 
@@ -256,7 +256,7 @@ So won't you sing it loud
 
 and won't you sing it long
 
-
+<br>
 
 我承諾過了，我會記得
 
@@ -272,7 +272,7 @@ your song of kindness
 
 I promise to remember
 
-
+<br>
 
 我承諾過我會記得...
 

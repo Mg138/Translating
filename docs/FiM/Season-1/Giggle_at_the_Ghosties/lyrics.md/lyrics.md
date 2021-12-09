@@ -12,25 +12,25 @@ Oh girls, don't you see?
 
 When I was a little filly and the sun was going down...
 
-
+<br>
 
 > 拜託，她不要是...
 
 > Tell me she's not...
 
-
+<br>
 
 那些黑暗跟影子們，總是讓我傷心...
 
 The darkness and the shadows, they would always make me frown...
 
-
+<br>
 
 > 她是。
 
 > She is.
 
-
+<br>
 
 我會躲在枕頭下
 
@@ -40,7 +40,7 @@ I'd hide under my pillow
 
 from what I thought I saw
 
-
+<br>
 
 但奶奶派說不應該這樣
 
@@ -50,7 +50,7 @@ But Granny Pie said that wasn't the way
 
 to deal with fears at all
 
-
+<br>
 
 > 那應該怎樣？
 
@@ -74,7 +74,7 @@ You'll see that they can't hurt you
 
 Just laugh to make them disappear."
 
-
+<br>
 
 哈！哈！哈！
 
@@ -90,7 +90,7 @@ So, giggle at the ghostly
 
 Guffaw at the grossly
 
-
+<br>
 
 大笑面對噁東西
 
@@ -100,7 +100,7 @@ Crack up at the creepy
 
 Whoop it up with the weepy
 
-
+<br>
 
 怪人給他噗嗤
 
@@ -110,13 +110,13 @@ Chortle at the kooky
 
 Snortle at the spooky
 
-
+<br>
 
 然後跟那個大大的嚇人臉說叫他去健走不要來煩你要是他覺得他有辦法嚇倒你然後他還有另外一招然後光是這樣想你就很想... 哈哈哈... 呵...
 
 And tell that big dumb scary face to take a hike and leave you alone and if he thinks he can scare you then he's got another thing coming and the very idea of such a thing just makes you wanna... hahahaha... heh...
 
-
+<br>
 
 笑～～～～～～～
 

@@ -8,19 +8,19 @@
 
 A secret has been hidden deep, beyond the grasp of all
 
-
+<br>
 
 上頭卻要鎮壓我們，說他們會解決
 
 Our leaders have forbidden us, they say it will be solved
 
-
+<br>
 
 我不能眼睜睜看著我們被任由擺佈
 
 And I can't help but see the flaw in leaving us behind
 
-
+<br>
 
 有什麼比蒙蔽整個國家還要更愚笨
 
@@ -36,7 +36,7 @@ We will keep you safe
 
 We will run the race
 
-
+<br>
 
 不用再多說了
 
@@ -56,7 +56,7 @@ Can't stand such isolation
 
 A stone cold shoulder for generations
 
-
+<br>
 
 他們虛假的甜言蜜語
 
@@ -66,7 +66,7 @@ They whisper sweet little nothings
 
 into our gullible ears
 
-
+<br>
 
 我有件事想讓你知道
 
@@ -76,13 +76,13 @@ There's something I should mention
 
 So may I have all your attention
 
-
+<br>
 
 我們來揭竿推翻這大決裂
 
 Let's reveal the great division
 
-
+<br>
 
 我們值得更多
 
@@ -98,19 +98,19 @@ What future do we have here?
 
 Plenty could be said about the sights beyond the wall
 
-
+<br>
 
 雖然我們的力量很小，卻能以量取勝
 
 Though little can be done for us, our numbers won't be small
 
-
+<br>
 
 有人說我們本就應該成為傳說故事
 
 And some have told us we deserve to live as just a myth
 
-
+<br>
 
 但他們不懂我們要跟多少痛苦過活
 
@@ -130,7 +130,7 @@ What has become of us?
 
 We don't want to hide
 
-
+<br>
 
 他們為何就這麼想
 
@@ -140,7 +140,7 @@ What do they see in us
 
 to keep us inside?
 
-
+<br>
 
 沒有人能夠剝奪那
 
@@ -150,7 +150,7 @@ No one will keep from us,
 
 the chance to be seen
 
-
+<br>
 
 我們會奪得勝利
 

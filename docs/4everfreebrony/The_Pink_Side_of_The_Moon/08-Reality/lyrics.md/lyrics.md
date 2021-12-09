@@ -12,7 +12,7 @@ Worlds so far apart
 
 hearts hung out to dry
 
-
+<br>
 
 我仍想問好
 
@@ -22,7 +22,7 @@ They'll have my regards
 
 just wish we had time
 
-
+<br>
 
 已經過太久
 
@@ -32,7 +32,7 @@ It's been much too long
 
 since I've their eyes
 
-
+<br>
 
 放手的念頭
 
@@ -52,7 +52,7 @@ But who can tell lies from reality
 
 when everyone sees the same?
 
-
+<br>
 
 誰又能夠，寫下銀河的每一哩
 
@@ -62,7 +62,7 @@ And who can spell out the miles of the galaxies
 
 when there's just too much space?
 
-
+<br>
 
 而它就是太多空間
 
@@ -80,7 +80,7 @@ Listen to your words
 
 or they will pass you by
 
-
+<br>
 
 每個人聽見
 
@@ -90,7 +90,7 @@ Everyone who heard
 
 will see right through your lies
 
-
+<br>
 
 想像自己與星群，飄在太空中
 
@@ -100,7 +100,7 @@ It's not hard to imagine yourself out in space
 
 floating with the stars
 
-
+<br>
 
 但當真的發生時，
 
@@ -110,7 +110,7 @@ But with everything that happens,
 
 happening all around you
 
-
+<br>
 
 你也不再是你
 
@@ -124,7 +124,7 @@ It's just not who you are
 
 Would you turn your back on everything you know?
 
-
+<br>
 
 並且不往回看，並且不知道去向？
 
@@ -144,7 +144,7 @@ Worlds so far apart
 
 hearts hung out to dry
 
-
+<br>
 
 我仍想問好
 

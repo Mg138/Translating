@@ -12,7 +12,7 @@ I still can remember the tear in her eye
 
 when she cast her spell and said nothing more than "goodbye"
 
-
+<br>
 
 記憶老去，臉也已記不清
 
@@ -22,7 +22,7 @@ The faces fade as the memories age
 
 A lifetime lost and a childhood thrown away
 
-
+<br>
 
 希望你在外面的世界能過得平安無事
 
@@ -34,19 +34,19 @@ Best of luck to the world out there and I hope you'll be okay
 
 Meanwhile, I'm feeling right at home with what I got around me
 
-
+<br>
 
 要是，能沒人來煩我，我就能自己一人
 
 Seems like I would be all alone if no one ever found me
 
-
+<br>
 
 我已經不想看到你，別來找我
 
 If you come looking around for me, leave me be
 
-
+<br>
 
 因為我現在只需要我的摯友
 
@@ -64,7 +64,7 @@ The hunter finds his food for the night
 
 with a quick-sharp aim and a hunger from deep inside
 
-
+<br>
 
 小熊總是跟著熊媽媽
 
@@ -74,7 +74,7 @@ The little bear goes where his mama will go
 
 The mother bear goes where the little cub knows to follow
 
-
+<br>
 
 每個人在這世界都有自己的人生
 

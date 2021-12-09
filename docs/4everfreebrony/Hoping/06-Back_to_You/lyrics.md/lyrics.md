@@ -12,13 +12,13 @@ How slowly those years passed
 
 now I'm finally here at last
 
-
+<br>
 
 天知道，我有多想你
 
 Oh heaven knows, I missed you
 
-
+<br>
 
 數不清的夜晚
 
@@ -28,7 +28,7 @@ I spent so many nights
 
 wondering how I'd make things right
 
-
+<br>
 
 才能夠，讓你原諒我
 
@@ -40,7 +40,7 @@ Oh can you please, forgive me
 
 I never knew how bad it'd hurt to be alone
 
-
+<br>
 
 一千年過去，我終於可以回家，噢...
 
@@ -56,13 +56,13 @@ After all we've been through,
 
 fate has brought me back to you
 
-
+<br>
 
 我們都會變得越來越堅強
 
 We'll be stronger than we've ever been before
 
-
+<br>
 
 即使黑暗蠢蠢欲動
 
@@ -72,7 +72,7 @@ And though darkness may creep in,
 
 it won't take over again
 
-
+<br>
 
 因為我再不會離開你了
 
@@ -90,13 +90,13 @@ I can't believe it's true
 
 that I've made it back to you
 
-
+<br>
 
 少了你，我是多麼失落
 
 Oh, I was lost without you
 
-
+<br>
 
 有了你我就滿足
 
@@ -106,7 +106,7 @@ So happy by your side,
 
 we're better unified
 
-
+<br>
 
 就這樣，持續到永遠
 
@@ -124,13 +124,13 @@ After all we've been through,
 
 fate has brought me back to you
 
-
+<br>
 
 我們比以前都還要更堅強
 
 Now we're stronger than we've ever been before
 
-
+<br>
 
 即使黑暗蠢蠢欲動
 
@@ -140,7 +140,7 @@ And though darkness may creep in,
 
 it won't take over again
 
-
+<br>
 
 因為我再不會離開你了
 
@@ -152,7 +152,7 @@ it won't take over again
 
 I'm sorry that I hurt you
 
-
+<br>
 
 多少道歉
 
@@ -162,7 +162,7 @@ So sorry
 
 that I left you alone
 
-
+<br>
 
 但我想讓你知道
 
@@ -172,7 +172,7 @@ But now I want you to be sure
 
 that as we open this new door
 
-
+<br>
 
 會一直留在你身邊
 

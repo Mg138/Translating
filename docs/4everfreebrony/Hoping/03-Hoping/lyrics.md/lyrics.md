@@ -12,7 +12,7 @@ I saved a row, even though
 
 I know it won't be taken
 
-
+<br>
 
 我原以為你們不會走
 
@@ -22,13 +22,13 @@ I thought at first you'd never go
 
 I was so mistaken
 
-
+<br>
 
 大家都說，生命總有終點
 
 I was told life won't last forever
 
-
+<br>
 
 但我已超越了那條界線
 
@@ -44,7 +44,7 @@ What's one to do?
 
 How's one to feel?
 
-
+<br>
 
 又何去何從
 
@@ -54,7 +54,7 @@ Where's one to go
 
 when their heart won't open?
 
-
+<br>
 
 遠在天邊
 
@@ -64,7 +64,7 @@ So far away
 
 Yet so nearby
 
-
+<br>
 
 彷彿誰還在看著
 
@@ -74,7 +74,7 @@ Feels as if someone's still
 
 watching over me
 
-
+<br>
 
 所以，我希望
 
@@ -92,7 +92,7 @@ Nowadays, I pick and choose
 
 my circumstances
 
-
+<br>
 
 我不相信，命運有那
 
@@ -102,13 +102,13 @@ I don't believe that fate is up
 
 for giving second chances
 
-
+<br>
 
 如果我沒想錯，時間永不停歇
 
 If I'm right, time goes on forever
 
-
+<br>
 
 感覺還有好多
 
@@ -128,7 +128,7 @@ What's one to do?
 
 How's one to feel?
 
-
+<br>
 
 又何去何從
 
@@ -138,7 +138,7 @@ Where's one to go
 
 when their heart won't open?
 
-
+<br>
 
 遠在天邊
 
@@ -148,7 +148,7 @@ So far away
 
 Yet so nearby
 
-
+<br>
 
 彷彿誰還在看著
 
@@ -158,7 +158,7 @@ Feels as if someone's still
 
 watching over me
 
-
+<br>
 
 所以，我...
 
@@ -174,7 +174,7 @@ So, here's to...
 
 keeping up with the present day
 
-
+<br>
 
 好好珍惜
 
@@ -184,7 +184,7 @@ standing well with
 
 the friends I made
 
-
+<br>
 
 同時確保
 

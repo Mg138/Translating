@@ -8,13 +8,13 @@
 
 Ever since I ran away it's been just like a holiday
 
-
+<br>
 
 我有一次永久渡假的機會
 
 I got to go on a getaway that never ends
 
-
+<br>
 
 上頭這有好多東西
 
@@ -24,7 +24,7 @@ There's lots up here to do and see,
 
 it's like a big round mystery
 
-
+<br>
 
 只有我，不需要其他朋友
 
@@ -36,19 +36,19 @@ It's just me and I don't need my friends
 
 The moon is a perfect place for a silly pink pony like me
 
-
+<br>
 
 最棒的地方，獻給 Pinkie
 
 The most amazing place for Pinkie
 
-
+<br>
 
 要是你看得到我，你會知道我滿臉笑容
 
 And if you saw my face you'd know I'm filled with glee
 
-
+<br>
 
 只有我在月球上這麼開心
 
@@ -60,19 +60,19 @@ Nobody rocks the moon like me
 
 I have all I could ever need, it's like a party just for me
 
-
+<br>
 
 往上看就能看到家園
 
 If I look up I can see my home
 
-
+<br>
 
 從外面看感覺美多了，亮綠地和亮藍天
 
 It looks much better from outside, it's bright green land and bright blue sky
 
-
+<br>
 
 不曉得我幹嘛呆在那
 
@@ -84,25 +84,25 @@ I wonder why I stayed there for so long
 
 The moon is a perfect place for a silly pink pony like me
 
-
+<br>
 
 最妙的地方，獻給 Pinkie
 
 It's the most wonderful place for Pinkie
 
-
+<br>
 
 要是你看得到我，你會知道我滿臉笑容
 
 And if you saw my face you'd know I'm filled with glee
 
-
+<br>
 
 只有我在月球上這麼開心
 
 Nobody rocks the moon like me
 
-
+<br>
 
 只有我！
 
@@ -114,19 +114,19 @@ No, they don’t!
 
 It's kinda cold up here and kinda dark too
 
-
+<br>
 
 看著那顆藍色彈珠，我也有點憂鬱
 
 I see that bright blue marble and it makes me kinda blue
 
-
+<br>
 
 這裡沒有多少空氣，地板也不怎綠
 
 I don't get much atmosphere and I don't get much grass
 
-
+<br>
 
 但就算在太空中，也聽的到我的笑
 
@@ -140,19 +140,19 @@ But even in space, you can hear me laugh
 
 The moon is a perfect place for a silly pink pony like me
 
-
+<br>
 
 最夢幻的地方，獻給 Pinkie
 
 The most fantastic place for Pinkie
 
-
+<br>
 
 要是你看得到我，你會知道我滿臉笑容
 
 And if you saw my face you'd know I'm filled with glee
 
-
+<br>
 
 只有我在月球上這麼開心！
 
@@ -164,31 +164,31 @@ Nobody rocks the moon like me!
 
 Nobody rocks the moon like me
 
-
+<br>
 
 (只有我！)
 
 (No, they don’t!)
 
-
+<br>
 
 只有我在月球上這麼開心
 
 Nobody rocks the moon like me
 
-
+<br>
 
 只有我！
 
 No, they don’t!
 
-
+<br>
 
 只有我在月球上這麼開心！
 
 Nobody rocks the moon like me!
 
-
+<br>
 
 (只有我！)
 

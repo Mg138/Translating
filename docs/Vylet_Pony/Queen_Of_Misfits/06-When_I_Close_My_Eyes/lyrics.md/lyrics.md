@@ -10,7 +10,7 @@ When I close my eyes,
 
 I hear things.
 
-
+<br>
 
 馬車經過的時候
 
@@ -24,7 +24,7 @@ as its wheels wobble against
 
 the cobblestone paths.
 
-
+<br>
 
 我在人群的嘈雜聲中
 
@@ -34,7 +34,7 @@ I fade softly against the murmurs
 
 of the crowds that encompass me.
 
-
+<br>
 
 風鈴明明被狂風吹著，
 
@@ -58,7 +58,7 @@ When I close my eyes,
 
 I see things.
 
-
+<br>
 
 我看見她，笑著回頭看我，
 
@@ -72,7 +72,7 @@ just like I remembered her doing,
 
 long ago when things were simpler.
 
-
+<br>
 
 我看見我，在鏡子裡面，
 
@@ -86,7 +86,7 @@ In my dreams, I know it's me,
 
 but in the daylight, I can never be sure.
 
-
+<br>
 
 艷麗的藍，斑斕的紅在天上，
 
@@ -100,7 +100,7 @@ across a sky that, to be honest,
 
 I never look up at.
 
-
+<br>
 
 沒什麼好稀奇的。
 
@@ -116,7 +116,7 @@ When I close my eyes,
 
 I dream of things.
 
-
+<br>
 
 但他們也只有
 
@@ -134,7 +134,7 @@ of a feeling
 
 that I know it.
 
-
+<br>
 
 我閉上雙眼，
 
@@ -154,7 +154,7 @@ When I close my eyes,
 
 I try to forget what it's like to keep them open.
 
-
+<br>
 
 當我閉上雙眼，
 
@@ -164,7 +164,7 @@ When I close my eyes,
 
 I try to forget the blame.
 
-
+<br>
 
 當我閉上雙眼，
 

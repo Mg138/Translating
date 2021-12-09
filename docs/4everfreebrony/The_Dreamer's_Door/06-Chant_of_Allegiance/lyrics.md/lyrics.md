@@ -12,7 +12,7 @@ Steadfast devotion to stay
 
 Without temptation to stray
 
-
+<br>
 
 永遠是如此迅速
 
@@ -32,7 +32,7 @@ Eyeing from the air
 
 with one of every avian
 
-
+<br>
 
 底下的大地
 
@@ -42,7 +42,7 @@ down below at earth
 
 and those upon
 
-
+<br>
 
 無數選擇中
 
@@ -52,7 +52,7 @@ Out of such a choice,
 
 out of all the noise
 
-
+<br>
 
 只有少數會
 
@@ -62,7 +62,7 @@ Only few will be
 
 in mind of one
 
-
+<br>
 
 只有少數會
 
@@ -80,7 +80,7 @@ Pleasure's mine to be
 
 in service of a friend to me
 
-
+<br>
 
 我唯一的夢想
 
@@ -90,7 +90,7 @@ in service of a friend to me
 
 and destiny
 
-
+<br>
 
 常常我覺得
 
@@ -100,7 +100,7 @@ Often times I feel
 
 so inadequate
 
-
+<br>
 
 除了家人外
 
@@ -120,7 +120,7 @@ Oh help me see
 
 Help me see
 
-
+<br>
 
 噢，幫我看清
 

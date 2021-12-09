@@ -10,7 +10,7 @@ When life gives you lemons
 
 you can make lemonade
 
-
+<br>
 
 但生命給了我坦克
 
@@ -20,7 +20,7 @@ But life gave me Tank here
 
 and my choice has long been made
 
-
+<br>
 
 冬天不會來到小馬鎮
 
@@ -30,7 +30,7 @@ No winter will come to Ponyville
 
 I'll do it on my own
 
-
+<br>
 
 我會把你留在身邊
 
@@ -50,7 +50,7 @@ And I'll fly, and I'll fly
 
 until the end of the sky
 
-
+<br>
 
 我才能夠做到
 
@@ -60,7 +60,7 @@ So I'll be the one who doesn't
 
 have to say goodbye
 
-
+<br>
 
 我會一直清天空
 
@@ -70,7 +70,7 @@ I'll clear the skies forever
 
 so we won't be apart
 
-
+<br>
 
 我會為你讓天氣溫暖
 
@@ -90,7 +90,7 @@ Weather-makers Pegasi
 
 You make the seasons in the sky
 
-
+<br>
 
 我不想打亂你們
 
@@ -100,7 +100,7 @@ I don't want to sabotage you
 
 but you see, I've got to try
 
-
+<br>
 
 沒有冬天會來到這
 
@@ -110,7 +110,7 @@ No winter can come here now
 
 I'll keep the warmth and the sun somehow
 
-
+<br>
 
 我很抱歉，小馬們，我就是要
 
@@ -120,7 +120,7 @@ I'm sorry, ponies, this has to be
 
 for I need my friend and he needs me
 
-
+<br>
 
 我知道這樣不對，但在乎嗎？
 
@@ -130,7 +130,7 @@ I know it's wrong, but what does it matter?
 
 'cause nothing's gonna stop me now
 
-
+<br>
 
 我會改變一切，不過是天氣
 
@@ -140,7 +140,7 @@ I'll change it all, it's only the weather
 
 and nopony's gonna bring me down
 
-
+<br>
 
 我要讓陽光繼續閃耀
 
@@ -150,7 +150,7 @@ I'll keep the sunlight shining free
 
 and I'll bust the clouds apart
 
-
+<br>
 
 這樣你才能跟我一起
 

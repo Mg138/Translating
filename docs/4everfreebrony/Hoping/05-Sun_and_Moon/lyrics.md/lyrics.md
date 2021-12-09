@@ -12,7 +12,7 @@ Say the dawn is drawing near
 
 Tell me that the sun will soon appear
 
-
+<br>
 
 陽光閃耀，宛如黃金
 
@@ -22,13 +22,13 @@ Beam of light, or ray of gold
 
 Yellow passing all around the world
 
-
+<br>
 
 兩眼開開的你不會懂
 
 You don't know until you've seen it blind
 
-
+<br>
 
 少了希望還有什麼用
 
@@ -56,7 +56,7 @@ Aftershine has come and gone
 
 Some of us still feel it's going on
 
-
+<br>
 
 離別會有誰不懂
 
@@ -66,13 +66,13 @@ Separate everybody knows
 
 But there's no difference if your eyes are closed
 
-
+<br>
 
 我們總是能找到出路
 
 Somehow we all find our way around
 
-
+<br>
 
 突然我們就這樣迷路
 

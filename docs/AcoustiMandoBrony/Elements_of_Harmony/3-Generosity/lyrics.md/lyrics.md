@@ -12,7 +12,7 @@ The day begins
 
 She makes herself look pure
 
-
+<br>
 
 我知道她會轉頭的
 
@@ -22,7 +22,7 @@ I know she'll turn some heads
 
 of that I'm sure
 
-
+<br>
 
 你看看她，如此華麗
 
@@ -32,7 +32,7 @@ Now you know she's looking fine
 
 All so divine, all so sublime
 
-
+<br>
 
 她還要工作
 
@@ -52,7 +52,7 @@ When they all see her come around,
 
 you know there's something here to be found
 
-
+<br>
 
 心中湧出美麗
 
@@ -62,13 +62,13 @@ the lush beauty
 
 like a diamond ring
 
-
+<br>
 
 它是如此的珍奇
 
 of the highest Rarity
 
-
+<br>
 
 它的美麗不只這樣
 
@@ -78,7 +78,7 @@ And even more beautiful inside,
 
 reach way down deep and I'm sure you'll find
 
-
+<br>
 
 她能給你
 
@@ -88,7 +88,7 @@ that she can bring
 
 that little something
 
-
+<br>
 
 慷慨的心
 
@@ -104,7 +104,7 @@ So elegant, as she
 
 waltzes across the room
 
-
+<br>
 
 看她閃耀
 
@@ -114,7 +114,7 @@ Watch her shine now
 
 Her time, it will come soon
 
-
+<br>
 
 我們不要管這麼多了
 
@@ -124,7 +124,7 @@ Now let's use just what we know
 
 C'mon now let's go, go, go
 
-
+<br>
 
 我們別管時間了
 
@@ -146,7 +146,7 @@ Now come watch the moonlight
 
 reflect off her sapphire eyes
 
-
+<br>
 
 我要跟你在一起到永遠－
 
@@ -156,7 +156,7 @@ I'll stick by you forever and every single day-
 
 -to forge and reinforce the bonds that tie us
 
-
+<br>
 
 大家一起完成這和聲
 
@@ -166,7 +166,7 @@ Now come and join me in harmony
 
 This is the best possible thing
 
-
+<br>
 
 她會在這等著你們
 
@@ -188,7 +188,7 @@ And late at night, I wonder
 
 as I lay my head down to slumber
 
-
+<br>
 
 我把時間編在一起 - (她把時間編在一起)
 
@@ -198,7 +198,7 @@ I weave through time - (She weaves through time)
 
 like a dress in design, it's true
 
-
+<br>
 
 我要對你展現我的慷慨心 - (希望我能對你展現慷慨心)
 
@@ -214,7 +214,7 @@ When I see her come around - (When you see me come around)
 
 I know there's something there to be found
 
-
+<br>
 
 心中湧出美麗
 
@@ -224,13 +224,13 @@ the lush beauty
 
 like a diamond ring
 
-
+<br>
 
 它是如此的珍奇
 
 of the highest Rarity
 
-
+<br>
 
 它的美麗不只這樣
 
@@ -240,7 +240,7 @@ And even more beautiful inside,
 
 reach way down deep and help me find
 
-
+<br>
 
 我能給你
 
@@ -250,7 +250,7 @@ I can bring
 
 that little something
 
-
+<br>
 
 慷慨的心
 

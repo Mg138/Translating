@@ -8,25 +8,25 @@
 
 There's a world that should be real somewhere
 
-
+<br>
 
 缺少緊張，愛遍世間
 
 There's a lack of tension and love to spare
 
-
+<br>
 
 真希望我曾經去過
 
 I would tell you that I'd been before
 
-
+<br>
 
 它就在逐夢之門身後
 
 It was just behind the dreamer's door
 
-
+<br>
 
 就在逐夢之門身後
 
@@ -46,7 +46,7 @@ Painted hills and colored skies
 
 A wondrous view that simply strikes the heart
 
-
+<br>
 
 (Aviators)
 
@@ -58,7 +58,7 @@ There's one who holds the stars in place
 
 Another who keeps it all from falling apart
 
-
+<br>
 
 (P1K)
 
@@ -82,7 +82,7 @@ Life outside of the wall
 
 I could say I'd dreamed it
 
-
+<br>
 
 我只要一次，但老實說
 
@@ -92,7 +92,7 @@ real one time, if at all
 
 I could hardly tell you
 
-
+<br>
 
 會認識誰，會見到什麼
 
@@ -102,7 +102,7 @@ Who's to know, what you'll find
 
 But it's there, I'm sure
 
-
+<br>
 
 你想要的不過就在逐夢之門身後
 
@@ -120,7 +120,7 @@ There's one who works until sundown
 
 Another who sees the beauty in everyone
 
-
+<br>
 
 (dBPony)
 
@@ -132,7 +132,7 @@ This one takes the sky to heart
 
 The other one knows the best ways to have fun
 
-
+<br>
 
 (Manta Tsubasa)
 
@@ -158,7 +158,7 @@ Open up, take a look
 
 You will never believe it
 
-
+<br>
 
 向前進，迎著風
 
@@ -176,25 +176,25 @@ Cherish what you see
 
 There's a girl who wants to do her best
 
-
+<br>
 
 到完美前她都不會睡覺
 
 'Til she has it, she won't stop or rest
 
-
+<br>
 
 不知道它會藏著什麼
 
 Doesn't know just what there is in store
 
-
+<br>
 
 逐夢之門身後有什麼
 
 What there is behind the dreamer's door
 
-
+<br>
 
 就在逐夢之門身後
 

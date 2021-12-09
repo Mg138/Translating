@@ -16,7 +16,7 @@ Jollity, forever shown;
 
 path of joy, so few have known.
 
-
+<br>
 
 那份真實的誠摯，
 
@@ -36,7 +36,7 @@ With one mind, we can make, we can live
 
 With a life, one can take, one can give
 
-
+<br>
 
 我們歡笑，分享著我們的一切
 
@@ -62,7 +62,7 @@ In this dream, there is no room for spite
 
 Still it seems, only I can decide
 
-
+<br>
 
 我迷了路，但卻不用待在世間
 

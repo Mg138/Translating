@@ -12,13 +12,13 @@ I felt so broken
 
 when I lost my faith one day
 
-
+<br>
 
 碎成一片，好似被推翻的花盆
 
 like a pot knocked over, made out of clay
 
-
+<br>
 
 如此痛苦，我鎖上心扉
 
@@ -28,7 +28,7 @@ And it hurt so bad, my chest locked up
 
 The pain made me go into shock
 
-
+<br>
 
 感覺像失去所愛一樣
 
@@ -44,19 +44,19 @@ the fragile feathers taken from this dove
 
 Ooh, but I knew I must carry on
 
-
+<br>
 
 疤痕會隨著時間漸漸淡去
 
 The pain will fade as I move along
 
-
+<br>
 
 只要我的心保持堅強
 
 in the hearts that are loyally strong
 
-
+<br>
 
 希望總會迎風而上
 
@@ -68,13 +68,13 @@ Faith will always flutter on
 
 Not by the blind submission to rulers and kings,
 
-
+<br>
 
 而是如比翼鳥般的心靈融合
 
 but the bond we share, like two birds of a wing
 
-
+<br>
 
 我們得學會如何飛翔
 
@@ -90,13 +90,13 @@ from all the careless damage that we've done
 
 Carry On
 
-
+<br>
 
 活著才能夠繼續歌唱
 
 Live to sing another song
 
-
+<br>
 
 升起的朝陽
 
@@ -106,13 +106,13 @@ The rising sun
 
 is shining bright for everyone
 
-
+<br>
 
 向前邁進
 
 Carry On
 
-
+<br>
 
 活出生命的色彩
 
@@ -130,31 +130,31 @@ One tends to wonder
 
 what the future has in store
 
-
+<br>
 
 只因回憶過往不是辦法
 
 when the past won't give out joy anymore
 
-
+<br>
 
 我的笑容還是那麼虛偽
 
 And I just keep faking every smile
 
-
+<br>
 
 我又在原地來回轉圈
 
 I walk another pointless mile
 
-
+<br>
 
 我的悲傷何時才會結束
 
 I don't know when my sorrow will cease
 
-
+<br>
 
 我已厭倦這條熟悉的迴路
 
@@ -166,19 +166,19 @@ for all I know it's just another piece
 
 Ooh, but I knew I must carry on
 
-
+<br>
 
 疤痕會隨著時間漸漸淡去
 
 The pain will fade as I move along
 
-
+<br>
 
 只要我的心保持堅強
 
 in the hearts that are loyally strong
 
-
+<br>
 
 希望總會...
 
@@ -190,13 +190,13 @@ Faith will always...
 
 Carry On
 
-
+<br>
 
 活著才能夠繼續歌唱
 
 Live to sing another song
 
-
+<br>
 
 升起的朝陽
 
@@ -206,37 +206,37 @@ The rising sun
 
 is shining bright for everyone
 
-
+<br>
 
 向前邁進
 
 Carry on
 
-
+<br>
 
 從今天起定好目標
 
 Be the change you want to see
 
-
+<br>
 
 只有你能做到
 
 You're only one
 
-
+<br>
 
 只要你肯相信自己
 
 It all comes down to what you believe
 
-
+<br>
 
 向前邁進
 
 Carry On
 
-
+<br>
 
 你要勇敢
 
@@ -246,7 +246,7 @@ Be valiant
 
 and Carry On
 
-
+<br>
 
 活出生命的色彩
 

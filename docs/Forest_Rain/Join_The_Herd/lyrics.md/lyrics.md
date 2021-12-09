@@ -18,7 +18,7 @@ You talk about it every day
 
 You know this is child's play
 
-
+<br>
 
 你都不擔心未來嗎
 
@@ -36,7 +36,7 @@ You know this show's for younger crowds?
 
 How can you say you're proud?
 
-
+<br>
 
 想清楚吧，小馬迷－－
 
@@ -54,7 +54,7 @@ You've spent your precious time
 
 Now you're walking a fine line!
 
-
+<br>
 
 可是你竟敢...
 
@@ -82,7 +82,7 @@ Ponies aren't just for girls
 
 Let this tale unfurl
 
-
+<br>
 
 Twilight Sparkle, Pinkie Pie
 
@@ -92,7 +92,7 @@ Twilight Sparkle, Pinkie Pie
 
 Applejack and Fluttershy
 
-
+<br>
 
 千萬別害怕
 
@@ -102,7 +102,7 @@ Do not be afraid
 
 We will never fade!
 
-
+<br>
 
 Rainbow Dash 和 Rarity
 
@@ -130,7 +130,7 @@ I never thought I'd like this stuff
 
 Thought I was just too tough
 
-
+<br>
 
 我對我的失禮感到抱歉
 
@@ -148,7 +148,7 @@ and even though I feel naive
 
 I find it hard to leave
 
-
+<br>
 
 謝謝你們，小馬迷
 
@@ -166,7 +166,7 @@ I feel like such a fool
 
 Who knew ponies were this cool?
 
-
+<br>
 
 每周等著星期六...
 
@@ -184,7 +184,7 @@ What will it bring?
 
 We open our mouths and sing--
 
-
+<br>
 
 加入馬圈
 
@@ -212,7 +212,7 @@ I never could repay
 
 What you've done for me today
 
-
+<br>
 
 謝謝你們，小馬迷
 

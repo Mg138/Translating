@@ -12,7 +12,7 @@ When morning is come to light the way home
 
 I'll follow the rays of the sun
 
-
+<br>
 
 當她帶來晨光，給勝利點上輝煌
 
@@ -38,7 +38,7 @@ When morning is here to dry up our tears
 
 at peace will my soul be once more
 
-
+<br>
 
 晨光終於到來，帶我們逃離恐懼
 
@@ -66,7 +66,7 @@ When morning is come to make us all one
 
 our lives will all then be reborn
 
-
+<br>
 
 當她帶來晨光，獲得安息的他們
 

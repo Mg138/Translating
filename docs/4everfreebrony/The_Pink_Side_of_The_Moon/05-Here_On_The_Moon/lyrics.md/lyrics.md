@@ -8,31 +8,31 @@
 
 Ponyville, I was in love with you
 
-
+<br>
 
 但我想換換新模式
 
 but I'm trying something new
 
-
+<br>
 
 反正不缺我一人
 
 Ya don't need me now
 
-
+<br>
 
 我知道，聽來有點好過頭
 
 I knew it was too good to be true
 
-
+<br>
 
 我知道我們都得輸
 
 I knew that we'd both lose
 
-
+<br>
 
 而你也讓我失望
 
@@ -44,31 +44,31 @@ and you've let me down
 
 It's time to say goodbye
 
-
+<br>
 
 我學會了飛天
 
 'cause I've learned how to fly
 
-
+<br>
 
 最近不是很想看到彼此
 
 Don't wanna see you anytime soon
 
-
+<br>
 
 這裡沒有多少壓力
 
 All tension's thin out here
 
-
+<br>
 
 覆蓋這冰冷的大氣
 
 in this cool atmosphere
 
-
+<br>
 
 我看，我就活在這月球上
 
@@ -90,31 +90,31 @@ La da da da da
 
 Look at me, trottin' here on my own
 
-
+<br>
 
 看看我都飛了多遠
 
 I mean, look how far I've flown
 
-
+<br>
 
 我已經習慣了這裡
 
 It's already growing on me
 
-
+<br>
 
 現在想一想，我們再也不會見面
 
 Come to think of it, you'll never see me again
 
-
+<br>
 
 連問好都不要問我
 
 Don't even ask me how I've been
 
-
+<br>
 
 最好是不要想我
 
@@ -134,19 +134,19 @@ Here On The Moon
 
 This is no game of hide and seek
 
-
+<br>
 
 我估計是需要時間冷靜
 
 I guess I just need time to think
 
-
+<br>
 
 所以，面對現實
 
 So, face the facts
 
-
+<br>
 
 因為我不會回家
 
@@ -158,13 +158,13 @@ So, face the facts
 
 I'm not playing hide and seek
 
-
+<br>
 
 只是需要自己思考
 
 I just need time to think
 
-
+<br>
 
 所以我就在這月球上想一想
 

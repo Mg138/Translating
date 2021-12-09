@@ -12,13 +12,13 @@ My little home
 
 This little town
 
-
+<br>
 
 不缺我一人
 
 They don't need me
 
-
+<br>
 
 這簡單的笑
 
@@ -28,13 +28,13 @@ My simple life
 
 This simple grin
 
-
+<br>
 
 我已不信任
 
 They betray me
 
-
+<br>
 
 你眼裡的謊
 
@@ -44,7 +44,7 @@ Their lying eyes
 
 My cracking shell
 
-
+<br>
 
 心上的刀痕
 
@@ -54,7 +54,7 @@ Their phony smiles
 
 My low morale
 
-
+<br>
 
 感情間的砲火
 
@@ -74,7 +74,7 @@ When you're without me
 
 it'll be easy to share
 
-
+<br>
 
 如果需要我
 
@@ -84,7 +84,7 @@ And if you need me
 
 you can pretend I'm there
 
-
+<br>
 
 你看不到我
 
@@ -94,7 +94,7 @@ You'll never see me
 
 we'll never meet again
 
-
+<br>
 
 就算少了我
 
@@ -116,13 +116,13 @@ I wonder how
 
 they'd think of me
 
-
+<br>
 
 如果我就此離去
 
 if I left them
 
-
+<br>
 
 他們哪會在乎
 
@@ -132,13 +132,13 @@ They wouldn't mind
 
 they wouldn't care
 
-
+<br>
 
 我也沒給他們機會
 
 I wouldn't let them
 
-
+<br>
 
 沒有歌謠
 
@@ -152,13 +152,13 @@ no lullaby
 
 no metaphor
 
-
+<br>
 
 能讓我回頭
 
 can change my mind
 
-
+<br>
 
 畢竟遙遠的那端
 

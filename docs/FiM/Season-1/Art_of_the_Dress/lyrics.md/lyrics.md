@@ -10,7 +10,7 @@ Thread by thread, stitching it together
 
 Twilight's dress, cutting out the pattern snip by snip
 
-
+<br>
 
 確保布料都沒有皺褶
 
@@ -20,7 +20,7 @@ Making sure the fabric folds nicely
 
 It's the perfect color and so hip
 
-
+<br>
 
 要好好一步一步來
 
@@ -30,13 +30,13 @@ Always gotta keep in mind my pacing
 
 Making sure the clothes' correctly facing
 
-
+<br>
 
 這是 Twilight 的衣服
 
 I'm stitching Twilight's dress
 
-
+<br>
 
 一尺一寸，要注意好細節
 
@@ -46,7 +46,7 @@ Yard by yard, fussing on the details
 
 Jewel neckline, don't you know a stitch in time saves nine?
 
-
+<br>
 
 給她我最完美的選擇
 
@@ -56,7 +56,7 @@ Make her something perfect to inspire
 
 even though she hates formal attire
 
-
+<br>
 
 我要做到細緻入微
 
@@ -66,13 +66,13 @@ Gotta mind those intimate details
 
 even though she's more concerned with sales
 
-
+<br>
 
 這是 Applejack 的新衣服
 
 It's Applejack's new dress
 
-
+<br>
 
 裁縫沒有很難，Pinkie Pie 就來點粉紅色
 
@@ -82,7 +82,7 @@ Dressmaking is easy, for Pinkie Pie something pink
 
 Fluttershy something breezy
 
-
+<br>
 
 顏色溶入衣服
 
@@ -92,7 +92,7 @@ Blend color and form,
 
 do you think it looks cheesy?
 
-
+<br>
 
 來點傲氣，也許來些豔麗
 
@@ -102,7 +102,7 @@ Something brash, perhaps quite fetching
 
 Hook and eye, couldn't you just simply die?
 
-
+<br>
 
 要能對上她的頭型
 
@@ -112,7 +112,7 @@ Making sure it fits forelock and crest
 
 Don't forget some magic in the dress
 
-
+<br>
 
 雖然會露出屁股
 
@@ -122,7 +122,7 @@ Even though it rides high on the flank,
 
 Rainbow won't look like a tank
 
-
+<br>
 
 這是 Rainbow 的衣服
 
@@ -134,25 +134,25 @@ I'm stitching Rainbow's dress
 
 Piece by piece, snip by snip
 
-
+<br>
 
 從頭到腳，按部就班
 
 Croup, dock, haunch, shoulders, hip
 
-
+<br>
 
 一針一線，燙好燙平
 
 Thread by thread, primmed and pressed
 
-
+<br>
 
 一尺一寸，不曾困難
 
 Yard by yard, never stressed
 
-
+<br>
 
 這就是服裝藝術！
 
@@ -178,7 +178,7 @@ Stitch by stitch, stitching it together
 
 Deadline looms, don't you know the client's always right?
 
-
+<br>
 
 就算我一切都計畫好了
 
@@ -188,7 +188,7 @@ Even if my fabric choice was perfect
 
 gotta get them all done by tonight
 
-
+<br>
 
 Pinkie Pie, 那個顏色太亮了
 
@@ -198,7 +198,7 @@ Pinkie Pie, that color's too obtrusive
 
 Wait until you see it in the light
 
-
+<br>
 
 我得快點縫出成品
 
@@ -214,25 +214,25 @@ Don't you think my gown
 
 would be more "me" with some lollipops?
 
-
+<br>
 
 > 嗯，我覺得...
 
 > Well, I think...
 
-
+<br>
 
 氣球？
 
 Balloons?
 
-
+<br>
 
 > 額...
 
 > Well...
 
-
+<br>
 
 做就對了！
 
@@ -248,7 +248,7 @@ Hour by hour, one more change
 
 I'm sewing them together, take great pains
 
-
+<br>
 
 Fluttershy, 你讓我頭很大
 
@@ -258,7 +258,7 @@ Fluttershy, you're putting me in a bind
 
 Rainbow Dash, what is on your mind?
 
-
+<br>
 
 天哪，時間真的不多了
 
@@ -268,7 +268,7 @@ Oh my gosh, there's simply not much time
 
 Don't forget, Applejack's duds must shine
 
-
+<br>
 
 裁縫沒有很難，可是顧客的要求
 
@@ -278,7 +278,7 @@ Dressmaking's easy, every customer's call
 
 brings a whole new revision
 
-
+<br>
 
 我要加快腳步，現在還不能睡覺
 
@@ -310,31 +310,31 @@ What if it rains? Galoshes!
 
 More balloons! Oh no, that's too many balloons
 
-
+<br>
 
 更多糖果！喔，少點糖果
 
 More candy! Oh, less candy
 
-
+<br>
 
 哦等等，我知道了，彩帶！
 
 Oh wait, I know. Streamers!
 
-
+<br>
 
 > 彩帶
 
 > Streamers?
 
-
+<br>
 
 這是誰的衣服？
 
 Whose dress is this?
 
-
+<br>
 
 > 那就彩帶吧...
 
@@ -346,54 +346,54 @@ Whose dress is this?
 
 What?
 
-
+<br>
 
 > 你沒有要跟我講哪邊要改嗎？
 
 > Aren't you going to tell me to change something, too?
 
-
+<br>
 
 不用，我只要看起來很酷就好
 
 No, I just want my dress to be cool
 
-
+<br>
 
 > 造型怎麼樣？
 
 > Do you not like the color?
 
-
+<br>
 
 顏色沒問題，酷一點就好
 
 The color's fine, just make it look cooler
 
-
+<br>
 
 > 顏色怎麼樣？
 
 > Do you not like the shape?
 
-
+<br>
 
 造型沒問題，你就讓整個東西...
 
 The shape's fine, just make the whole thing...
 
-
+<br>
 
 你知道的，酷一點
 
 you know, cooler
 
-
+<br>
 
 (停頓)
 (pause)
 
-
+<br>
 
 至少再酷個 20% 之類的
 
@@ -409,7 +409,7 @@ All we ever want is indecision
 
 All we really like is what we know
 
-
+<br>
 
 要在時尚跟規矩間取平衡
 
@@ -419,7 +419,7 @@ Gotta balance style with adherence
 
 Making sure we make a good appearance
 
-
+<br>
 
 就算成品不怎麼樣
 
@@ -429,7 +429,7 @@ Even if you simply have to fudge it
 
 Make sure that it stays within our budget
 
-
+<br>
 
 沒有時間怕東怕西
 
@@ -445,25 +445,25 @@ Remember, it's all in the presentation!
 
 Piece by piece, snip by snip
 
-
+<br>
 
 從頭到腳，按部就班
 
 Croup, dock, haunch, shoulders, hip
 
-
+<br>
 
 一修一補，燙好燙平
 
 Bolt by bolt, primmed and pressed
 
-
+<br>
 
 一尺一寸，如此困難
 
 Yard by yard, always stressed
 
-
+<br>
 
 這就是服裝藝術！
 

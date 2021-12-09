@@ -10,13 +10,13 @@ Swimming in chains
 
 Ruled by the reins
 
-
+<br>
 
 沒有人能拒絕他的賭約
 
 No one will say no to his game
 
-
+<br>
 
 驕傲被吞噬
 
@@ -26,13 +26,13 @@ Gone is our pride
 
 Fear is our drive
 
-
+<br>
 
 沒有人能拒絕他的雙眼
 
 No one will say no to his eyes
 
-
+<br>
 
 哀傷如山倒
 
@@ -42,13 +42,13 @@ The mountain of sorrow
 
 is much to bear
 
-
+<br>
 
 為何要承受此般負擔
 
 And hard is the burden we share
 
-
+<br>
 
 如要想起身
 
@@ -58,7 +58,7 @@ And as we build
 
 suffer we will
 
-
+<br>
 
 只要他還在緊盯著我們
 

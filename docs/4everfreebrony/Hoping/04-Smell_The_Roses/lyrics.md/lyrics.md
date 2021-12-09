@@ -12,13 +12,13 @@ There's a long and winding road ahead
 
 A few black clouds lay over head
 
-
+<br>
 
 而那太陽卻總是不見蹤影
 
 And the shining sun is nowhere to be seen
 
-
+<br>
 
 但你只要起身繼續走
 
@@ -28,7 +28,7 @@ But with every step and fall you take
 
 all your thoughts and leaps of faith
 
-
+<br>
 
 雨過似乎就一定會有天青
 
@@ -40,13 +40,13 @@ There's a silver lining somewhere in between
 
 Close your eyes
 
-
+<br>
 
 深呼吸
 
 Breathe in slow
 
-
+<br>
 
 緩緩吐氣
 
@@ -62,7 +62,7 @@ Stop and smell the roses
 
 when your journey's getting long
 
-
+<br>
 
 當生命想唱反調
 
@@ -72,7 +72,7 @@ When you feel your life's against you
 
 and your energy is gone
 
-
+<br>
 
 並非誰都知道何時
 
@@ -82,7 +82,7 @@ and your energy is gone
 
 it's just time to catch a break
 
-
+<br>
 
 當你累到只想自己靜一靜時
 
@@ -90,7 +90,7 @@ When you're draining
 
 and you just don't wanna show it
 
-
+<br>
 
 停下來聞聞玫瑰花香
 
@@ -108,13 +108,13 @@ Today has found another way
 
 to turn right into yesterday
 
-
+<br>
 
 只因時間又再次熄滅了光源
 
 'Cause time has taken all the light again
 
-
+<br>
 
 就算我擺弄著現實
 
@@ -124,7 +124,7 @@ But if I fiddle with reality
 
 to try and change who I should be
 
-
+<br>
 
 最後還不是仍然呆站在起點
 

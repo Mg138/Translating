@@ -12,7 +12,7 @@ You see me soaring through the sky
 
 I see you below as you walk on by
 
-
+<br>
 
 我只要十秒就能清光雲層
 
@@ -26,7 +26,7 @@ Well, how about that,
 
 well, how about that?
 
-
+<br>
 
 我可以坐在雲上好好放鬆
 
@@ -36,7 +36,7 @@ I could be sitting here on a cloud,
 
 watching the sun as it starts to go down
 
-
+<br>
 
 現在只缺一個人
 
@@ -64,7 +64,7 @@ Give me an idea of dependency
 
 Give me a dash of loyalty
 
-
+<br>
 
 忠誠心
 
@@ -88,7 +88,7 @@ You can give your broken heart to me
 
 'cause you know that I'll stay with you
 
-
+<br>
 
 所以「忠誠」才是我的座右銘
 
@@ -104,7 +104,7 @@ The sun shines bright, yet the rain pours on
 
 Rainbows here one minute and then they're gone
 
-
+<br>
 
 他們讓我想起了你
 
@@ -118,7 +118,7 @@ What did you do?
 
 What did I do?
 
-
+<br>
 
 你雙眼裡的決心
 
@@ -128,7 +128,7 @@ Determination in those eyes
 
 Where has it gone? Has it said goodbye?
 
-
+<br>
 
 時間過得好快
 
@@ -148,19 +148,19 @@ but I'll stay by your side
 
 Time stands still when you're with me
 
-
+<br>
 
 我要怎麼讓你看清
 
 How can I make you see?
 
-
+<br>
 
 你的白目讓我想發狂
 
 Your crazy antics make me want to scream
 
-
+<br>
 
 吼你名字吼到喉嚨爛掉
 

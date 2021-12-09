@@ -8,19 +8,19 @@
 
 Dream yourself another day
 
-
+<br>
 
 再給自己睡一眠
 
 Sleep another night away
 
-
+<br>
 
 跟那孤獨月球道晚安
 
 Bid the lonely moon goodnight
 
-
+<br>
 
 撒下永遠閃耀的星光
 
@@ -32,19 +32,19 @@ Under the ever-starry light
 
 Rest your bones, your weary mind
 
-
+<br>
 
 閉上沈重雙眼，今晚
 
 Close your tired eyes tonight
 
-
+<br>
 
 我會為你射一顆流星
 
 I'll cast a shooting star for you
 
-
+<br>
 
 想許什麼願都會成真
 
@@ -56,19 +56,19 @@ All your wishes will come true
 
 If you knew... you see, I've been there, too
 
-
+<br>
 
 噢，那月球... 不是你這小馬的所處
 
 Oh, the moon... is no place for filly like you
 
-
+<br>
 
 太陽會起床... 給你的世界帶來亮光
 
 The sun will rise... and bring your world to life
 
-
+<br>
 
 湛藍天空... 會來給你指引
 
@@ -84,7 +84,7 @@ Bluer skies... will be your only guide
 
 Dream yourself another day
 
-
+<br>
 
 再給自己睡一眠
 

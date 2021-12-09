@@ -8,25 +8,25 @@
 
 One would believe in simple means
 
-
+<br>
 
 有人覺得也非不可能
 
 Some would believe it possible
 
-
+<br>
 
 其他人則是漠不關心
 
 Others feel it won't be seen
 
-
+<br>
 
 但沒人相信會有奇蹟
 
 For none believe in miracles
 
-
+<br>
 
 有人用鑽石換碎石
 
@@ -36,7 +36,7 @@ Some give a diamond for a stone
 
 Some give a stone for a diamond
 
-
+<br>
 
 有人守著自己的錢財
 
@@ -58,7 +58,7 @@ There once lived a girl in a simpler time
 
 with night-like hair and skin so white
 
-
+<br>
 
 不論她到哪，都對大家說
 
@@ -78,7 +78,7 @@ So she went through the world, giving all she had
 
 never feeling the need to claim it back
 
-
+<br>
 
 不論她到哪，大家都臣服
 
@@ -98,7 +98,7 @@ Counting the days of a shortening life
 
 Living the ways of a nursery rhyme
 
-
+<br>
 
 哼聲有如鐘聲一般
 

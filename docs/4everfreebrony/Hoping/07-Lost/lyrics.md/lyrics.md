@@ -12,7 +12,7 @@ The sound of every beating heart
 
 is music to my ears
 
-
+<br>
 
 眼淚也隨旋律流淌
 
@@ -22,7 +22,7 @@ The melody is torn apart
 
 when listening through tears
 
-
+<br>
 
 時間走得太快？還是我來的太遲？
 
@@ -32,7 +32,7 @@ Is it too soon, or am I too late?
 
 How have I done?
 
-
+<br>
 
 回音仍在繼續
 
@@ -52,7 +52,7 @@ This is who I'm meant to be.
 
 Raise that sun so I can see.
 
-
+<br>
 
 再一次。
 
@@ -68,7 +68,7 @@ One by one
 
 days seem longer
 
-
+<br>
 
 放我奔跑！
 
@@ -90,7 +90,7 @@ I wish to leave it all behind
 
 and never to return
 
-
+<br>
 
 但逃避責任也只會
 
@@ -100,7 +100,7 @@ It seems avoiding what is mine
 
 is not the way to learn
 
-
+<br>
 
 身邊種滿玫瑰
 
@@ -110,7 +110,7 @@ Ring around the rosie
 
 No one really knows me
 
-
+<br>
 
 一切形同泡影
 
@@ -130,7 +130,7 @@ This is who I'm meant to be.
 
 I am lost so mentally.
 
-
+<br>
 
 再一次。
 

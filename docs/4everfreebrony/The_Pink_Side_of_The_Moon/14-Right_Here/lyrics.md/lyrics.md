@@ -6,31 +6,31 @@
 
 I have no reason to frown
 
-
+<br>
 
 我不需要轉過身
 
 I don't need to turn around
 
-
+<br>
 
 現在哭還有何用
 
 What's the use in crying now
 
-
+<br>
 
 我不敢相信所見
 
 I can't believe my eyes
 
-
+<br>
 
 我撒了一個瞞天大謊
 
 I told myself the perfect lie
 
-
+<br>
 
 但我現在已不想死掉
 
@@ -46,7 +46,7 @@ And even though I turned the odds
 
 against myself
 
-
+<br>
 
 我發現我又再次被
 
@@ -62,7 +62,7 @@ by someone else
 
 So tonight, I will make it right
 
-
+<br>
 
 我仍不懂為何
 
@@ -72,13 +72,13 @@ Still I don't know why
 
 I thought I'd swallow all my tears
 
-
+<br>
 
 一直以來，我都想得太歪
 
 All along, I was thinking wrong
 
-
+<br>
 
 我花太久搞清
 
@@ -88,7 +88,7 @@ It took me far too long to see that
 
 all I need's right here
 
-
+<br>
 
 我所需就在這
 
@@ -100,31 +100,31 @@ All I need's right here
 
 Some say I lost my mind
 
-
+<br>
 
 至少我終於學會了
 
 at least I found it given time
 
-
+<br>
 
 我再也不這樣脆弱
 
 I won't go down so easily
 
-
+<br>
 
 對啦，我知道很明顯
 
 Yeah, it's easy enough to admit
 
-
+<br>
 
 我本來就是不適合
 
 it never was a perfect fit
 
-
+<br>
 
 那月球還是太小了
 
@@ -142,7 +142,7 @@ The moon is just too small for me
 
 So tonight, I will make it right
 
-
+<br>
 
 我仍不懂為何
 

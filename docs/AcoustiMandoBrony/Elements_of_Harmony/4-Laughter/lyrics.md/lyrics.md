@@ -16,7 +16,7 @@ I will never lose the spark
 
 that keeps me going when I'm low
 
-
+<br>
 
 大家都問我如何做到
 
@@ -26,7 +26,7 @@ Everybody asks me how
 
 I get by when I get down
 
-
+<br>
 
 黑暗沒有那麼可怕
 
@@ -36,7 +36,7 @@ It's easy to get through the darkness
 
 once you know
 
-
+<br>
 
 我可以教你怎樣
 
@@ -46,7 +46,7 @@ I can show you the way
 
 to have a brighter day
 
-
+<br>
 
 你只要保持微笑
 
@@ -70,7 +70,7 @@ laugh until happy tears
 
 fall to the ground
 
-
+<br>
 
 如果你害怕擔心，
 
@@ -84,7 +84,7 @@ all the good times will fade
 
 just follow the sound
 
-
+<br>
 
 追隨那歡笑聲
 
@@ -102,13 +102,13 @@ Pulling through, standing tall
 
 We can rise above it all
 
-
+<br>
 
 只要有朋友們在身旁
 
 with our friends by our side
 
-
+<br>
 
 用笑臉面對危險
 
@@ -118,13 +118,13 @@ Face the danger with a grin
 
 'Cause there's no battle we can't win
 
-
+<br>
 
 我們永遠不會輸，永不分開
 
 We will never fall, never divide
 
-
+<br>
 
 我們總會找到辦法
 
@@ -134,7 +134,7 @@ We will find the way
 
 to face another day
 
-
+<br>
 
 你只要保持微笑
 
@@ -152,19 +152,19 @@ to make it all worthwhile
 
 When you look inside, you'll find the answer
 
-
+<br>
 
 用心感受，就絕對不會錯
 
 Coming from the heart you can't go wrong
 
-
+<br>
 
 露出笑容，就能找到歡笑
 
 Do it with a smile and you'll find Laughter
 
-
+<br>
 
 找到你自己的旋律...
 
@@ -188,7 +188,7 @@ laugh until happy tears
 
 fall to the ground
 
-
+<br>
 
 有你們這群朋友，
 
@@ -202,7 +202,7 @@ I know we'll never stray
 
 if we follow the sound
 
-
+<br>
 
 追隨那歡笑聲
 

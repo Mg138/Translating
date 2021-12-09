@@ -16,7 +16,7 @@ Looking back feels so bittersweet
 
 I'd never imagine what we started could mean so much to me
 
-
+<br>
 
 浪潮退去，我是覺得也許
 
@@ -26,7 +26,7 @@ It might be true we've passed the golden years
 
 Well let them say what they want, I'll politely disagree
 
-
+<br>
 
 有何重要的呢
 
@@ -36,25 +36,25 @@ Well let them say what they want, I'll politely disagree
 
 if you're where you wanna be
 
-
+<br>
 
 大吼吧，如果你仍在外頭
 
 So scream if you're out there
 
-
+<br>
 
 如果事情就是不公
 
 if things just ain't fair
 
-
+<br>
 
 獨自承受著噩夢
 
 Alone in a nightmare
 
-
+<br>
 
 我們不會拋下你
 
@@ -70,7 +70,7 @@ Don't tell me it's over,
 
 that all things have to end
 
-
+<br>
 
 也許我們會得到永生
 
@@ -86,19 +86,19 @@ I think we'll live forever
 
 (Hey!) Tell me where do we go from here
 
-
+<br>
 
 (嘿！) 我們會不會就這樣灰飛煙滅
 
 (Hey!) Do we just burn up and disappear
 
-
+<br>
 
 (嘿！) 你是否還會像那樣在我身邊
 
 (Hey!) Will you still be there stood next to me
 
-
+<br>
 
 (嘿！) 就好像 2013 年那樣
 
@@ -110,7 +110,7 @@ I think we'll live forever
 
 Will they remember you, when you're dead and gone
 
-
+<br>
 
 就讓他們問你的生平
 
@@ -120,13 +120,13 @@ Let them ask you where you were
 
 Show them you've been here all along
 
-
+<br>
 
 你還會不會記得我，在這麼久之後
 
 Will you remember me, when it's been so long
 
-
+<br>
 
 我們會不會消失在腦海裡
 
@@ -142,7 +142,7 @@ Will I see you at the con?
 
 Every time I look back at the place we all came from
 
-
+<br>
 
 熟悉的臉是一張一張
 
@@ -152,13 +152,13 @@ Familiar faces one by one
 
 Seems everypony's movin' on
 
-
+<br>
 
 每次我往前，感覺都像有誰被遺落
 
 Every step I take feels like someone gets left behind
 
-
+<br>
 
 決定如此也是沒關係
 
@@ -192,7 +192,7 @@ Thank you, friends. Thank you, everypony
 
 Will you remember them, the friendship that they found
 
-
+<br>
 
 你會不會記得這首歌怎麼唱，
 
@@ -202,7 +202,7 @@ Will you know the songs and sing along,
 
 twenty years from now
 
-
+<br>
 
 而你會不會在這裡，跟著我大聲吼
 

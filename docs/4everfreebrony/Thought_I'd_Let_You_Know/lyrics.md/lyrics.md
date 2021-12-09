@@ -12,13 +12,13 @@ It's getting hard to write
 
 and late into the night
 
-
+<br>
 
 有好一陣子了，我還在往地上扔信
 
 It's been while now, I toss the mail around
 
-
+<br>
 
 希望你最近過得好
 
@@ -34,13 +34,13 @@ I'm eager just to know
 
 where, from this point, I go
 
-
+<br>
 
 我想你也知道，交朋友我都有做到
 
 'Cause I can tell you now, I've made my way around
 
-
+<br>
 
 但我似乎未曾成長
 
@@ -56,7 +56,7 @@ If you can see right through this letter
 
 then all the tears are clearly shown
 
-
+<br>
 
 我想就這樣也許更好
 
@@ -78,7 +78,7 @@ My ink is running out
 
 as midnight comes around
 
-
+<br>
 
 想想也說夠了，我應該寫的都寫了
 
@@ -100,7 +100,7 @@ If you can see right through this letter (See right through me)
 
 then all the tears are clearly shown (Tears are surely shown)
 
-
+<br>
 
 就算知道你不會回覆 (永不回覆)
 

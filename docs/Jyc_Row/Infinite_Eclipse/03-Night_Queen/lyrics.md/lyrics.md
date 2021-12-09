@@ -8,7 +8,7 @@ Midnight
 
 The darkness covering the light
 
-
+<br>
 
 滿月
 
@@ -22,7 +22,7 @@ She is returning soon
 
 To avenge the curse, the crime
 
-
+<br>
 
 日，不再
 
@@ -36,7 +36,7 @@ Eternal black she brings
 
 In her wings
 
-
+<br>
 
 當她，帶領
 
@@ -50,7 +50,7 @@ Night will last forever
 
 Only stars will fill the sky
 
-
+<br>
 
 戰前線
 
@@ -60,7 +60,7 @@ Battle lines
 
 Her army gathers to her side
 
-
+<br>
 
 聽那喊
 
@@ -74,7 +74,7 @@ Hear them cry
 
 Watch the hero rise
 
-
+<br>
 
 日，命運就是被食
 

@@ -6,13 +6,13 @@
 
 It worked! It worked!
 
-
+<br>
 
 噢，我真高興你回復正常了！
 
 Oh, I'm so happy you're back to normal!
 
-
+<br>
 
 現在，我們需要你的幫助！
 
@@ -28,7 +28,7 @@ A true, true friend helps a friend in need
 
 A friend will be there to help them see
 
-
+<br>
 
 一個真誠的摯友會幫朋友解圍
 
@@ -44,7 +44,7 @@ to see the light! that shines from a true, true friend
 
 Um, hello?
 
-
+<br>
 
 你有朋友被困住，記得嗎？
 
@@ -60,7 +60,7 @@ Rarity needs your help
 
 She's trying hard, doing what she can
 
-
+<br>
 
 能否試試看，就給個機會
 
@@ -78,19 +78,19 @@ You might find that you'll start to understand
 
 Uh, what just happened?
 
-
+<br>
 
 沒有時間解釋了，但我們需要你。
 
 There's no time to explain, but we need your help.
 
-
+<br>
 
 Applejack 正在做裁縫呢！
 
 Applejack's trying to make dresses!
 
-
+<br>
 
 不用說了！
 
@@ -106,7 +106,7 @@ Applejack needs your help
 
 She's trying hard, doing what she can
 
-
+<br>
 
 能否試試看，就給個機會
 
@@ -124,37 +124,37 @@ You might find that you'll start to understand
 
 (gasp)
 
-
+<br>
 
 喔天啊，什麼個糟糕的夢啊。
 
 Oh my, what a terrible dream I had.
 
-
+<br>
 
 額，也許我還在作夢。
 
 Or, maybe I'm still having it.
 
-
+<br>
 
 Rarity, Pinkie Pie 要失去蘋果園了。
 
 Rarity, Pinkie Pie is about to lose the apple farm.
 
-
+<br>
 
 我們需要 Applejack 的幫助！
 
 We need Applejack's help!
 
-
+<br>
 
 失去蘋果園？
 
 Lose the apple farm?
 
-
+<br>
 
 我們絕對不能讓那發生，你說是吧？
 
@@ -214,25 +214,25 @@ A true, true friend helps a friend in need
 
 A friend will be there to help them see
 
-
+<br>
 
 一個真誠的摯友會幫朋友解圍
 
 A true, true friend helps a friend in need
 
-
+<br>
 
 幫他看見！（幫他看見！）
 
 To see the light! (To see the light!)
 
-
+<br>
 
 真誠摯友（真誠摯友！）
 
 That shines! (That shines!)
 
-
+<br>
 
 發出的光！
 

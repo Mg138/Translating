@@ -12,7 +12,7 @@ Could've sworn the moment just blew away
 
 A heart breaks when memories go to waste
 
-
+<br>
 
 如此真實，卻感覺如此詭異
 
@@ -28,25 +28,25 @@ It's something you should know, our names are marked in stone
 
 But not if your soul is bound with-
 
-
+<br>
 
 －時間枷鎖。我一這生中從未有過－
 
 -time. I've never been so lost in my-
 
-
+<br>
 
 －如此失落。即使歲月穿梭我卻還－
 
 -life. Years rolling and I'll still be-
 
-
+<br>
 
 －仍然健在。還是很難接受我這副－
 
 -alive. It's hard knowing that I will never-
 
-
+<br>
 
 －不死之軀。只因靈魂已套上枷鎖
 
@@ -58,19 +58,19 @@ But not if your soul is bound with-
 
 Though I take advantage of every day
 
-
+<br>
 
 分秒必爭，我是怎樣都會輸
 
 every second counts, it's a losing game
 
-
+<br>
 
 沒有終點，這不是我在幻想
 
 And there's no end, it's not just in my head
 
-
+<br>
 
 永遠不能停歇，有些就得說再見
 
@@ -84,7 +84,7 @@ Forever on the line, and some get left behind
 
 Never knew that my timeline lacked an ending point
 
-
+<br>
 
 也許它會就這樣跟著我繼續走
 
@@ -98,13 +98,13 @@ I imagine it only gets longer as I go
 
 My soul's been bound with-
 
-
+<br>
 
 －時間枷鎖。我一這生中從未有過－
 
 -time. I've never been so lost in my-
 
-
+<br>
 
 －如此失落。即使歲月穿梭我卻還－
 
@@ -116,31 +116,31 @@ My soul's been bound with-
 
 -alive. It's hard knowing that I will never-
 
-
+<br>
 
 －不死之軀。只因靈魂已套上枷鎖...
 
 -die. 'Cause I know my soul's been bound with time...
 
-
-
-我的靈魂已套上枷鎖...
-
-My soul's been bound with time...
-
-
+<br>
 
 我的靈魂已套上枷鎖...
 
 My soul's been bound with time...
 
-
+<br>
 
 我的靈魂已套上枷鎖...
 
 My soul's been bound with time...
 
+<br>
 
+我的靈魂已套上枷鎖...
+
+My soul's been bound with time...
+
+<br>
 
 我的靈魂已套上－－
 

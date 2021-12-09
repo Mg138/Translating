@@ -10,7 +10,7 @@ Oh, it's murder,
 
 the way you tell me off like it's alright
 
-
+<br>
 
 但即使再怎麼難過
 
@@ -20,13 +20,13 @@ and even at your worst,
 
 you strengthen my will to fight
 
-
+<br>
 
 你不知道你看上了什麼貨色
 
 And you don't know what you're getting into
 
-
+<br>
 
 但我感覺像回到家般
 
@@ -42,7 +42,7 @@ I'm feeling right right at home
 
 I'm the stuff of your dreams
 
-
+<br>
 
 因為我是自己的導演
 
@@ -52,7 +52,7 @@ I'm the stuff of your dreams
 
 Everything's not as seems
 
-
+<br>
 
 我要對你施魔法
 
@@ -62,7 +62,7 @@ I'm gonna put a spell on you,
 
 and it's a dazzling truth
 
-
+<br>
 
 我會自己找到出路
 
@@ -82,7 +82,7 @@ So hear our call
 
 We're tryna make a name for ourselves
 
-
+<br>
 
 你們曾有機會可以
 
@@ -102,7 +102,7 @@ would be ok
 
 don't give a fuck what you say
 
-
+<br>
 
 因為我是個超級巨星
 
@@ -112,7 +112,7 @@ don't give a fuck what you say
 
 gotta find my own way
 
-
+<br>
 
 因為本公主很有風度
 
@@ -122,7 +122,7 @@ gotta find my own way
 
 I got some tricks up my sleeve
 
-
+<br>
 
 我要把你給趕出去
 
@@ -144,7 +144,7 @@ Take a look at us now,
 
 had to cry for a bit
 
-
+<br>
 
 我們回到了最佳狀態
 
@@ -154,7 +154,7 @@ but now we're back on our best
 
 while you projected the sin
 
-
+<br>
 
 我們在這裡曾水生火熱
 
@@ -164,7 +164,7 @@ There was hell for us here before,
 
 what's the difference from now?
 
-
+<br>
 
 我們得自己找出路
 
@@ -174,7 +174,7 @@ We had to try and find our way
 
 We were lost but then were found
 
-
+<br>
 
 我們心裡都有個惡魔
 
@@ -184,7 +184,7 @@ And there's a villain in all of us,
 
 still needed a friend
 
-
+<br>
 
 每分每秒都是機會
 
@@ -194,7 +194,7 @@ When every moment's a chance for us
 
 to make all our amends
 
-
+<br>
 
 這從一開始就很困難
 
@@ -204,7 +204,7 @@ And it's hard since the start of it
 
 It's never been easy
 
-
+<br>
 
 你以為我們學不成的魔法
 

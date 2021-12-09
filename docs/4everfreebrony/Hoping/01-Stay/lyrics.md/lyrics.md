@@ -12,7 +12,7 @@ I always wished that my eyes were playing tricks on me
 
 whenever I'd see your names
 
-
+<br>
 
 銘刻在那，專雕給你們的石像上
 
@@ -28,7 +28,7 @@ At least they're not the same
 
 I'm reminded every day that you're gone
 
-
+<br>
 
 但你能否放過我，就這次？
 
@@ -44,13 +44,13 @@ And won't you stay in my dreams?
 
 And don't you ever leave
 
-
+<br>
 
 不要再讓我更加地思念你
 
 Don't make me miss you anymore than I do
 
-
+<br>
 
 你何不留在
 
@@ -70,7 +70,7 @@ I'd never go as far as pleading for a miracle
 
 'cause time has its own mind
 
-
+<br>
 
 但你也該知道，我早已塵封了這些回憶
 
@@ -92,13 +92,13 @@ So won't you stay in my dreams?
 
 And don't you ever leave
 
-
+<br>
 
 不要再讓我更加地思念你
 
 Don't make me miss you anymore than I do
 
-
+<br>
 
 所以你何不留在
 
@@ -110,25 +110,25 @@ So won't you stay
 
 in my dreams
 
-
+<br>
 
 我曾毫不珍惜這份友誼
 
 I took your friendship for granted
 
-
+<br>
 
 而哦...
 
 and oh...
 
-
+<br>
 
 我真該感激我曾經擁有
 
 I should be grateful I had it
 
-
+<br>
 
 現在看看下場如何
 
@@ -144,13 +144,13 @@ Won't you stay in my dreams?
 
 And don't you ever leave
 
-
+<br>
 
 不要再讓我更加地思念你
 
 Don't make me miss you anymore than I do
 
-
+<br>
 
 你何不留在
 

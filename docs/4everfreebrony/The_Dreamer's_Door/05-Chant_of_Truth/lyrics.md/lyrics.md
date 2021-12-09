@@ -12,7 +12,7 @@ Innocence and clarity in one,
 
 purity is only found in some
 
-
+<br>
 
 不曉得所謂口蜜腹劍，
 
@@ -32,7 +32,7 @@ Learned it in a parable
 
 Found it in a lullaby
 
-
+<br>
 
 曾經有人提過它
 
@@ -42,7 +42,7 @@ Someone said it long ago
 
 Dreamed it on a sleepless night
 
-
+<br>
 
 你能聽到那聲音
 
@@ -52,7 +52,7 @@ You can hear it whispering
 
 only if you're listening
 
-
+<br>
 
 在你美好的回憶裡
 
@@ -70,7 +70,7 @@ Far beyond the mountainside
 
 Take a gander of your own
 
-
+<br>
 
 再靠近點河中心
 
@@ -80,7 +80,7 @@ Nearer to the river's eyes
 
 Beauty in the scene alone
 
-
+<br>
 
 我會在那好好等
 
@@ -90,7 +90,7 @@ I'll be waiting reverently
 
 Underneath the apple tree
 
-
+<br>
 
 深思著大家的使命
 

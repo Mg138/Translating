@@ -10,7 +10,7 @@ September Blue, thy sorrows be forgotten
 
 October Auburn, let this season pass
 
-
+<br>
 
 十一之灰，以汝雨水恢復
 
@@ -32,7 +32,7 @@ Light of virtue shown
 
 Sign of one's true form
 
-
+<br>
 
 一點一滴教育
 
@@ -42,7 +42,7 @@ To grow, only small
 
 Giving guidance for all
 
-
+<br>
 
 有誰能真正看懂
 
@@ -60,7 +60,7 @@ Bright inviting morn
 
 Brilliant rays reborn
 
-
+<br>
 
 跟上腳步
 
@@ -70,7 +70,7 @@ So follow along
 
 as the shadows have gone
 
-
+<br>
 
 跟我穿越時空
 
@@ -86,7 +86,7 @@ Walk where time has torn
 
 (December White) December White
 
-
+<br>
 
 (汝之美永留存) 汝之美永留存
 

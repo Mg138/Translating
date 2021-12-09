@@ -12,7 +12,7 @@ Bright winged flame
 
 full of power and grace
 
-
+<br>
 
 耀眼的你
 
@@ -22,7 +22,7 @@ Glorious one
 
 we all bow to your majesty
 
-
+<br>
 
 戰士飛翔
 
@@ -32,13 +32,13 @@ Warrior in flight
 
 from the depths you arise
 
-
+<br>
 
 剷除日陰
 
 To erase the shadows
 
-
+<br>
 
 步伐飛速
 
@@ -48,7 +48,7 @@ Swiftly you move
 
 to reclaim and to prove
 
-
+<br>
 
 你是火焰女神
 
@@ -58,7 +58,7 @@ You’re the goddess of fire
 
 and none can withstand your flare
 
-
+<br>
 
 大家應該讓位
 
@@ -68,7 +68,7 @@ All must give way
 
 to the eternal day
 
-
+<br>
 
 祝您萬歲
 
@@ -94,7 +94,7 @@ Legends foretold
 
 of your crown and your throne
 
-
+<br>
 
 身臨前線
 
@@ -104,7 +104,7 @@ Standing to conquer
 
 the army of evil’s hold
 
-
+<br>
 
 梁柱、閃光
 
@@ -114,13 +114,13 @@ Pillar and spark
 
 as the new dawn now starts
 
-
+<br>
 
 我們等著你
 
 We await your presence
 
-
+<br>
 
 熱風陣陣
 
@@ -130,7 +130,7 @@ Warm winds have stirred
 
 A celestial rebirth
 
-
+<br>
 
 象徵著你的到來
 
@@ -140,7 +140,7 @@ Signaled your coming
 
 the time of your grand return
 
-
+<br>
 
 夜中星光
 
@@ -150,7 +150,7 @@ Luminous star
 
 like a sword through the dark
 
-
+<br>
 
 由你揭開曙光
 
@@ -176,7 +176,7 @@ Shining sun of the night (Keeper of the light)
 
 Sun of night
 
-
+<br>
 
 吾皇萬歲
 

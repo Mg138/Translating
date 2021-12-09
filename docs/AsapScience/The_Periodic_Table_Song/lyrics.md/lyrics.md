@@ -12,7 +12,7 @@ There's Hydrogen and Helium
 
 then Lithium, Beryllium
 
-
+<br>
 
 硼(ㄆㄥˊ) 跟碳(ㄊㄢˋ) 到處都是
 
@@ -22,7 +22,7 @@ Boron, Carbon everywhere
 
 Nitrogen all through the air
 
-
+<br>
 
 有氧(ㄧㄤˇ) 你才能夠呼吸
 
@@ -32,7 +32,7 @@ With Oxygen so you can breathe
 
 And Fluorine for your pretty teeth
 
-
+<br>
 
 氖(ㄋㄞˇ) 點亮了招牌
 
@@ -42,7 +42,7 @@ Neon to light up the signs
 
 Sodium for salty times
 
-
+<br>
 
 鎂(ㄇㄟˇ)，鋁(ㄌㄩˇ)，矽(ㄒㄧˋ) / 硅(ㄍㄨㄟˉ)
 
@@ -52,7 +52,7 @@ Magnesium, Aluminium, Silicon
 
 Phosphorus, then Sulfur, Chlorine and Argon
 
-
+<br>
 
 鉀(ㄐㄧㄚˇ)，而鈣(ㄍㄞˋ) 能讓你變強壯
 
@@ -68,7 +68,7 @@ Scandium, Titanium, Vanadium and Chromium and Manganese
 
 This is the Periodic Table
 
-
+<br>
 
 惰性氣體很穩定
 
@@ -78,7 +78,7 @@ Noble gas is stable
 
 Halogens and Alkali react agressively
 
-
+<br>
 
 每一週期都會多一圈
 
@@ -98,7 +98,7 @@ Iron is the 26th
 
 then Cobalt, Nickel coins you get
 
-
+<br>
 
 銅(ㄊㄨㄥˊ)，鋅(ㄒㄧㄣˉ) 和鎵(ㄐㄧㄚˉ)
 
@@ -108,7 +108,7 @@ Copper, Zinc and Gallium
 
 Germanium and Arsenic
 
-
+<br>
 
 硒(ㄒㄧˉ)，和溴(ㄒㄧㄡˋ) 底片
 
@@ -118,7 +118,7 @@ Selenium and Bromine film
 
 while Krypton helps light up your room
 
-
+<br>
 
 銣(ㄖㄨˊ) 和鍶(ㄙˉ) 和釔(一ˇ)，鋯(ㄍㄠˋ)
 
@@ -128,7 +128,7 @@ Rubidium and Strontium then Yttrium, Zirconium
 
 Niobium, Molybdenum, Technetium
 
-
+<br>
 
 釕(ㄌㄧㄠˇ)，銠(ㄌㄠˇ)，鈀(ㄅㄚˉ)
 
@@ -138,7 +138,7 @@ Ruthenium, Rhodium, Palladium
 
 Silver-ware then Cadmium and Indium
 
-
+<br>
 
 錫(ㄒㄧˊ) 罐，銻(ㄊ一ˋ) 和碲(ㄉ一ˋ) 和碘(ㄉㄧㄢˇ) 和
 
@@ -148,7 +148,7 @@ Tin-cans, Antimony then Tellurium and Iodine
 
 and Xenon and then Caesium and...
 
-
+<br>
 
 鋇(ㄅㄟˋ) 是第56號，也是週期表分裂的開始
 
@@ -164,7 +164,7 @@ where Lanthanides have just begun
 
 Lanthanum, Cerium and Praseodymium
 
-
+<br>
 
 緊接著是釹(ㄋㄩˇ)
 
@@ -174,7 +174,7 @@ Neodymium's next too
 
 Promethium, then 62's
 
-
+<br>
 
 釤(ㄕㄢˉ)，銪(ㄧㄡˇ)，釓(ㄍㄚˉ) 和鋱(ㄊㄜˋ)
 
@@ -188,7 +188,7 @@ Dysprosium, Holmium, Erbium, Thulium
 
 Ytterbium, Lutetium
 
-
+<br>
 
 鉿(ㄏㄚˉ)，鉭(ㄉㄢˋ)，鎢(ㄨˉ) 之後準備迎接
 
@@ -198,7 +198,7 @@ Hafnium, Tantalum, Tungsten then we're on to
 
 Rhenium, Osmium and Iridium
 
-
+<br>
 
 鉑(ㄅㄛˊ)，金(ㄐㄧㄣˉ) 能讓你能老到只剩錢
 
@@ -208,7 +208,7 @@ Platinum, Gold to make you rich till you grow old
 
 Mercury to tell you when it's really cold
 
-
+<br>
 
 鉈(ㄊㄚˉ) 和鉛(ㄑㄧㄢˉ) 再來鉍(ㄅㄧˋ) 是你的止瀉藥
 
@@ -218,7 +218,7 @@ Thallium and Lead then Bismuth for your tummy
 
 Polonium, Astatine would not be yummy
 
-
+<br>
 
 氡(ㄉㄨㄥˉ)，鍅(ㄈㄚˇ) / 钫(ㄈㄤˉ) 沒辦法撐多久
 
@@ -240,7 +240,7 @@ Actinium, Thorium, Protactinium
 
 Uranium, Neptunium, Plutonium
 
-
+<br>
 
 鋂(ㄇㄟˊ) / 镅(ㄇㄟˊ)，鋦(ㄐㄩˊ)，鉳(ㄅㄟˇ) / 锫(ㄆㄟˊ)
 
@@ -250,7 +250,7 @@ Americium, Curium, Berkelium
 
 Californium, Einsteinium, Fermium
 
-
+<br>
 
 鍆(ㄇㄣˊ)，鍩(ㄋㄨㄛˋ)，鐒(ㄌㄠˇ)
 
@@ -260,7 +260,7 @@ Mendelevium, Nobelium, Lawrencium
 
 Rutherfordium, Dubnium, Seaborgium
 
-
+<br>
 
 𨨏(ㄆㄛˉ)，𨭆(ㄏㄟˉ)，䥑(ㄇㄞˋ)
 
@@ -270,7 +270,7 @@ Bohrium, Hassium then Meitnerium
 
 Darmstadtium, Roentgenium, Copernicium
 
-
+<br>
 
 鉨(ㄋㄧˇ)，鈇(ㄈㄨˉ)
 
@@ -280,7 +280,7 @@ Nihonium, Flerovium
 
 Moscovium, Livermorium
 
-
+<br>
 
 鿬(ㄊㄧㄢˊ)，鿫(ㄠˋ)
 

@@ -12,7 +12,7 @@ Remembrance, part of every life;
 
 num'rous regrets, the art of passing time.
 
-
+<br>
 
 終生難忘，焚膏繼晷的每夜；
 
@@ -32,7 +32,7 @@ It is seldom seen in this world of now;
 
 it is welcome, universe and out.
 
-
+<br>
 
 沒有陪伴，汝得隻身行；
 
@@ -58,7 +58,7 @@ It is ponderous, willing to know my fate,
 
 in its longest lingering while to wait.
 
-
+<br>
 
 我能看到，記憶被翻來覆去，
 
@@ -86,7 +86,7 @@ Remembrance, part of every life;
 
 num'rous regrets, the art of passing time.
 
-
+<br>
 
 時間如河水流淌...
 

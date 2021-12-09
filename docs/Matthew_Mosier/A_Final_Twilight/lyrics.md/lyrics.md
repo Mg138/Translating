@@ -12,7 +12,7 @@ Two years since the start of this perfect story
 
 I don't want it to end
 
-
+<br>
 
 我們之間的關係，多麼特別的緊密
 
@@ -28,7 +28,7 @@ I could never surrend'
 
 But my royal duties are dragging me away
 
-
+<br>
 
 能否回來都還說不定
 
@@ -40,13 +40,13 @@ I can't say I'll be home someday
 
 Standing on the platform, see you one last time
 
-
+<br>
 
 離別對我來說從未如此困難
 
 It's never been so hard for me to say goodbye
 
-
+<br>
 
 我還是沒法親自和你們說
 
@@ -56,7 +56,7 @@ I could never tell you in person
 
 I'm not coming home
 
-
+<br>
 
 ...不，這就是永別
 
@@ -74,7 +74,7 @@ A darkness in the distance, a letter in fire
 
 bound with Celestia's seal
 
-
+<br>
 
 我渴望機會掙扎，但我有任務在身
 
@@ -90,7 +90,7 @@ There's no time for tears
 
 I'm sorry, but I need to do this alone
 
-
+<br>
 
 你們每位都是我最好的朋友
 
@@ -108,7 +108,7 @@ I'll never lie and I'll never give up
 
 Laugh at the fear when it rises up
 
-
+<br>
 
 展現仁慈，我將付出所有
 
@@ -128,13 +128,13 @@ You all have made me the best I can
 
 This Twilight is ending. The night has come
 
-
+<br>
 
 空中的繁星將指引我的去向
 
 The stars in the sky will carry me on
 
-
+<br>
 
 我還是沒法親自和你們說
 
@@ -144,7 +144,7 @@ I could never tell you in person
 
 I'm not coming home
 
-
+<br>
 
 ...不，這就是永別
 

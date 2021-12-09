@@ -8,7 +8,7 @@
 
 C'mon, Apples, y'all know this one!
 
-
+<br>
 
 (Granny Smith)
 
@@ -16,7 +16,7 @@ C'mon, Apples, y'all know this one!
 
 Hot-diggity!
 
-
+<br>
 
 (Applejack)
 
@@ -24,7 +24,7 @@ Hot-diggity!
 
 Yee-haw!
 
-
+<br>
 
 (Big McIntosh)
 
@@ -42,7 +42,7 @@ We've traveled the road of generations
 
 joined by a common bond
 
-
+<br>
 
 我們在小馬國度間唱歌
 
@@ -62,7 +62,7 @@ We're Apples forever, Apples together
 
 We're family, but so much more
 
-
+<br>
 
 不管刮風下雨，我們都會面對
 
@@ -72,7 +72,7 @@ No matter what comes, we will face the weather
 
 We're Apples to the core
 
-
+<br>
 
 噫－－耶。
 
@@ -88,7 +88,7 @@ There's no place that I'd rather be
 
 than travelin' with my family
 
-
+<br>
 
 親朋好友都會一起加入
 
