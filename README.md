@@ -1,14 +1,14 @@
 # 公告 / Notice
 
-## [Easier Browsing / 更好的瀏覽](https://mg138.github.io/Translating/)
+## [更好的瀏覽 / Easier Browsing](https://mg138.github.io/Translating/)
 
 # 簡介 / About
 
-This repo contains my personal translations. They're mostly pony songs.\
-There might also be shorts translations in the future.
-
 這個 repo 存放著我的個人翻譯。他們大部分都是小馬歌曲。\
 未來也有可能會有短篇翻譯。
+
+This repo contains my personal translations. They're mostly pony songs.\
+There might also be shorts translations in the future.
 
 # 中文 / Chinese
 
