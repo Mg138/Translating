@@ -1,144 +1,249 @@
-# Where Everything is New
+# Where Everything is New 那頭什麼都新鮮
 
-Harmony is at
+## 前奏
+要維持和諧真惱人
 
-Wit's end
+但你能否感到我的心在你身邊？
 
-But can you feel my
+Harmony is at wit's end
 
-heart against yours?
+But can you feel my heart against yours?
 
-Surrounded
+<br>
 
-by unfamiliar faces
 
-Only yours can
+被群群陌生的臉龐包圍
 
-Bring me hope
+只有你的能給我光源
 
-They say that
+Surrounded by unfamiliar faces
 
-Home is where the heart is
+only yours can bring me hope
 
-But my heart
+## 間奏
 
-Is split in two
+## 主歌-1
+大家都說，心處於家園
 
-You know me
+但我的心，已裂成兩半
 
-Right from top to bottom
+They say that home is where the heart is
 
-You know me
+but my heart is split in two
 
-For who I am
+<br>
+
+你知我，有如從頭到尾
+
+你知我如，我知己
+
+You know me right from top to bottom
+
+you know me for who I am
+
+## 間奏
+
+你要微笑，微笑，微笑
 
 You gotta smile smile smile
 
+<br>
+
+壞事會過去
+
 And it'll be okay
+
+<br>
+
+就等一會
 
 You just wait
 
-On the road to friendship
+## 主歌-2
 
-The wounds we had will heal
+在這友誼的旅途
+
+傷口會漸漸痊癒
+
+And on the road to friendship
+
+the wounds we had will heal
+
+<br>
+
+我們走了很遠
+
+遠離以往的破裂
 
 We've come a long way
 
-From the brokenness we were
+from the brokenness we were
 
-The names they say
+## 導歌
+
+他們取的綽號
+
+And the names they say
+
+<br>
+
+他們玩的戲弄
 
 And the games they play
 
-Ya, sticks and stones
+<br>
+
+非禮勿言
+
+Sticks and stones
+
+## 副歌
+但，沒關係
+
+我們再次上路
+
+通往人生的道路
 
 But it's okay
 
 We're on our way
 
-On the road to
+on the road to life again
 
-Life again
+<br>
+
+一個偉大冒險
+
+就在那之後
+
+那頭，什麼，都新鮮
 
 A great adventure's
 
-Just beyond the place
+just beyond the place
 
-Where everything
+where everything is new
 
-Is new
+## 主歌-3
+
+噢，好多可能性
+
+我們在腦中想像著
 
 Oh, the possibilities
 
-Brought by our imagination
+brought by our imagination
 
-I think we can work
+<br>
 
-To feel better
+我想，我們可以洗心革面
 
-Because we're
+I think we can work to feel better
 
-Living off a dream of ours
+<br>
 
-A dream that's filled
+因為我們仍活在夢中
 
-With magic
+一個充滿魔法的夢境
 
-A future filled
+Because we're living off a dream of ours
 
-With hope again
+a dream that's filled with magic
+
+<br>
+
+一個充滿希望的未來
+
+A future filled with hope again
+
+## 間奏
+
+我們真是脆弱
 
 We are so fragile
 
+<br>
+
+我們的光，熄滅
+
 The lights we've known go dim
+
+<br>
+
+腳步逐漸變慢
 
 Our trot becomes a pace
 
+<br>
+
+人生也逐漸重來
+
 As our lives transform anew
+
+## 導歌
+
+你要微笑，微笑，微笑
 
 You gotta smile smile smile
 
+<br>
+
+壞事會過去
+
 And it'll be okay
 
-You just wait
+## 重複: 副歌
 
-But it's okay
+## 間奏
 
-We're on our way
-
-On the road to
-
-Life again
-
-A great adventure's
-
-Just beyond the place
-
-Where everything
-
-Is new
+我這一生
 
 All my life
 
-All I've known
+<br>
 
-Is running
+永遠只知道，怎麼落荒而逃
 
-Away
+all I've known is running away
+
+<br>
+
+現在我知道
 
 Now I know
 
-That I can stand
+<br>
 
-For myself
+我能挺著身
 
-and for my friends
+that I can stand
+
+<br>
+
+為了我和我朋友
+
+for myself and for my friends
+
+## 尾奏
+
+噢...
+
+Oh...
+
+<br>
+
+我能否被原諒？
 
 Can I be forgiven
 
+<br>
+
+在那頭
+
 In the place
 
-Where everything
+<br>
 
-Is new?
+那頭什麼都新鮮...
 
+where everything is new?

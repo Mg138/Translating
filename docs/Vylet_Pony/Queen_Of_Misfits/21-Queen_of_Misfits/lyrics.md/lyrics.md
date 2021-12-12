@@ -28,13 +28,13 @@ And you don't know what you're getting into
 
 <br>
 
-但我感覺像回到家般
+我感覺像回到家般
 
 I'm feeling right right at home
 
 ## 副歌
 
-因為我就是錯位女王
+我就是錯位女王
 
 是你的夢中情人
 
@@ -44,7 +44,7 @@ I'm the stuff of your dreams
 
 <br>
 
-因為我是自己的導演
+我是自己的導演
 
 眼見不一定為真
 
@@ -54,7 +54,7 @@ Everything's not as seems
 
 <br>
 
-我要對你施魔法
+我要對你施魔咒
 
 不管你接不接受
 
@@ -64,9 +64,9 @@ and it's a dazzling truth
 
 <br>
 
-我會自己找到出路
+我會自己找到路
 
-有沒有你都無所謂
+你的存在無所謂
 
 And I can find my way,
 
@@ -94,7 +94,7 @@ would be ok
 
 ## 導歌
 
-因為我就是錯位女王
+我就是錯位女王
 
 他媽不管你怎麼講
 
@@ -104,9 +104,9 @@ don't give a fuck what you say
 
 <br>
 
-因為我是個超級巨星
+我是個超級巨星
 
-得要自己設法出道
+得要設法出道
 
 'Cause I'm a superstar,
 
@@ -114,7 +114,7 @@ gotta find my own way
 
 <br>
 
-因為本公主很有風度
+本公主很有風度
 
 跟你說我自有計謀
 
@@ -136,7 +136,7 @@ I gotta be who I wanna be
 
 ## 主歌-2
 
-看看現在的我們
+現在看看我們
 
 抹掉剛剛的淚水
 
@@ -146,7 +146,7 @@ had to cry for a bit
 
 <br>
 
-我們回到了最佳狀態
+又回到了最佳狀態
 
 即使又看到了罪過的殘影
 
@@ -158,7 +158,7 @@ while you projected the sin
 
 我們在這裡曾水生火熱
 
-現在不是也差不多？
+現在不也差不多？
 
 There was hell for us here before,
 
@@ -168,7 +168,7 @@ what's the difference from now?
 
 我們得自己找出路
 
-我們迷了路，卻找到了彼此
+我們迷了路，卻找到彼此
 
 We had to try and find our way
 
@@ -208,7 +208,7 @@ It's never been easy
 
 你以為我們學不成的魔法
 
-我們卻靠自己學會了
+我們卻靠彼此學會了
 
 And the magic you thought we'd lost
 
