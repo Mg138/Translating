@@ -2,13 +2,11 @@
 
 ## 主歌-1
 
-所以，就是這了吧
-
-So here we are
-
-
+就是這了吧
 
 最後的再見
+
+So here we are
 
 the last goodbye
 
@@ -22,29 +20,25 @@ if only I could find some perfect phrase
 
 來讓你笑
 
-To make you laugh
-
-
-
 來讓你哭
+
+To make you laugh
 
 to make you cry
 
 
 
-來在我消失前讓你開心
+來讓你開心，在我消失之前
 
 to bring you joy before I fade away
 
 
 
-但說到底
-
-But in the end
-
-
+但說到最後
 
 我們不過是
+
+But in the end
 
 we're just pretend
 
@@ -58,11 +52,9 @@ some fleeting thoughts before the dark of sleep
 
 但我還有感受
 
+所以我還存活
+
 But I can feel
-
-
-
-所以我還在這
 
 so I am real
 
@@ -74,9 +66,9 @@ so let's escape before we're in too deep
 
 ## 導歌-1
 
-所以
+所以帶
 
-帶我回到一切的起點
+我回到一切的起點
 
 So take
 
@@ -84,9 +76,9 @@ me back to where it all began
 
 
 
-而如果你等會
+而如果你能等會
 
-你就能再一次收聽
+你就能再一次聽見
 
 And if you wait
 
@@ -120,7 +112,7 @@ Woah...
 
 
 
-就再一次舉起雙手
+就再一次，舉起雙手
 
 Raise your hands just one more time
 
@@ -144,7 +136,7 @@ Woah...
 
 
 
-天空下著束束光線
+天空射下束束條光線
 
 The atmosphere is raining light
 
@@ -164,17 +156,15 @@ I'll see you in some other life
 
 我們將啟航
 
+飛過這天空
+
 We're setting sail
-
-
-
-飛過這夜空
 
 across the sky
 
 
 
-天上星座，他們會指路
+天上的星座，他們會指路
 
 the constellations, they will be our guide
 
@@ -182,17 +172,15 @@ the constellations, they will be our guide
 
 而突然之間
 
-And suddenly
-
-
-
 我們的承諾
+
+And suddenly
 
 our promises
 
 
 
-都成為一段消逝的旋律
+都成為一段恍惚的旋律
 
 are just a melody that slipped our mind
 
@@ -200,11 +188,9 @@ are just a melody that slipped our mind
 
 但我們也許
 
-But maybe we
-
-
-
 會再次相遇
+
+But maybe we
 
 will meet again
 
@@ -218,11 +204,9 @@ when all the stars align a path someday
 
 但現在看來
 
-But as we are
-
-
-
 飄散的星群
+
+But as we are
 
 the scattered stars
 
@@ -250,21 +234,17 @@ That's all I know
 
 
 
-但如果你肯
-
-仔細聆聽
-
-But if you
-
-listen real close
-
-
+但如果你肯仔細聆聽
 
 每一拍都會治癒
 
-你靈魂的破口
+But if you listen real close
 
 every beat will heal those
+
+
+
+你靈魂的破口
 
 scars on your soul
 
@@ -286,15 +266,33 @@ in the end it's worth it
 
 
 
+笑過淚水
+
 Joy through the tears
+
+
+
+歲月
+
+他們跟你道別
 
 The years
 
 they say goodbye
 
+
+
+帶著記憶一起
+
+試圖抹滅恐懼
+
 with memories that try to
 
 end all your fears
+
+
+
+抹滅恐懼
 
 End all your fears
 
@@ -302,39 +300,86 @@ End all your fears
 
 ## 間奏
 
-Oh, I
+噢，我正在啟航
 
-am sailing on
+Oh, I am sailing on
+
+
+
+我正在啟航
 
 I'm sailing on
 
-Goodbye
 
-to all I've known
+
+再見，我所知一切
+
+Goodbye to all I've known
+
+
+
+我所知一切
 
 To all I've known
+
+
+
+而我會等著你
 
 And I will wait for you
 
 ## 尾奏
 
+我會對著整個銀河系低語
+
 I'll whisper out across the galaxy
+
+
+
+「我們再見」
 
 "I'll See you soon"
 
+
+
+喔...
+
 Woah...
+
+
+
+我已改變
 
 I have changed
 
+
+
+我已成長
+
 I have grown
+
+
+
+現在我
+
+已獨立...
 
 Now I am
 
 on my own...
 
+
+
+現在知道
+
+我會是誰
+
 Knowing, now,
 
 who I'll be
 
-I am free...
 
+
+我已自由...
+
+I am free...
