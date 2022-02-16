@@ -28,7 +28,7 @@ To avenge the curse, the crime
 
 永恆之黑，降臨
 
-同他行
+同她行
 
 Day will cease
 
@@ -38,7 +38,7 @@ In her wings
 
 <br>
 
-當她，帶領
+當她帶領
 
 夜晚將持續到永恆
 
@@ -64,7 +64,7 @@ Her army gathers to her side
 
 聽那喊
 
-「甜蜜的勝利」
+「甜蜜勝利」
 
 見證英雄們起來
 
@@ -78,9 +78,14 @@ Watch the hero rise
 
 日，命運就是被食
 
-夜，統治已經到來
+夜，統治已經降臨
 
 Fate of the sun eclipsing
 
 The reign of night has come
 
+<br>
+
+夜晚將持續到永恆
+
+Night will last forever

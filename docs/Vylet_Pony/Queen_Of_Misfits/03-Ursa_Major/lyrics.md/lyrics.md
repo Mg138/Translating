@@ -4,9 +4,9 @@
 
 ## 主歌-1
 
-當我大聲喊，你能否聽到
+當我大聲喊，你能否聽到？
 
-跟以前比起來，有什麼新的
+跟以前比起來，有什麼新的？
 
 Can you hear my voice when I call out?
 
@@ -50,7 +50,7 @@ Do anything
 
 ## 副歌
 
-我彷彿能打倒一隻大熊座
+彷彿能夠打倒一隻大熊座
 
 能抬起這個該死世界
 
@@ -62,7 +62,7 @@ like I could lift up the whole damn world
 
 但我能否就停止作夢
 
-對這該死的女孩還是太多
+他媽對一個女孩還是太多
 
 But can I get a break from dreaming
 
@@ -72,7 +72,7 @@ it's just too much for one damn girl
 
 歷史是給那些不好好玩的人來寫
 
-守規矩不會有什麼聲望
+守規矩的人不會有什麼聲望
 
 History is written by the ones who don't play nice
 
@@ -80,11 +80,11 @@ No fame is gained in behaving
 
 <br>
 
-要是能達成目的，我也會開始動亂
+要是能達成目的我也會開始動亂
 
-<br>
+聽聽看在那新暑期中的魔力
 
-I’d start a riot if it meant I’d get my way
+I'd start a riot if it meant I'd get my way
 
 Listen for the magic in the new type summer phase
 
@@ -92,15 +92,15 @@ Listen for the magic in the new type summer phase
 
 登上舞台，把握時機
 
-翻了一頁，聽見海聲
+翻過一頁，聽見海聲
 
 You take the stage and seize the moment
 
-I turn a page and hear the ocean
+Turn a page and hear the ocean
 
 <br>
 
-燒斷一座橋，再新建一個
+燒一座橋，再建新的
 
 就算是鹹魚，也能夠翻身
 
