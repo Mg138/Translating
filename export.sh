@@ -2,7 +2,7 @@
 
 python export.py
 cd docs
-index --modified "Modified" .
+index .
 touch .nojekyll
 cd ..
 python md_wrapper.py
