@@ -4,7 +4,7 @@
 
 當我閉上雙眼，
 
-我聽見好多東西。
+我聽見。
 
 When I close my eyes,
 
@@ -12,27 +12,19 @@ I hear things.
 
 <br>
 
-馬車經過的時候，
+馬車經過時，它的輪子
 
-輪子在鵝卵石地上
-
-不斷搖晃的聲音。
+跟鵝卵石路撞出的聲音。
 
 The sound of a carriage passing
 
-as its wheels wobble against
-
-the cobblestone paths.
+as its wheels wobble against the cobblestone paths.
 
 <br>
 
-我在人群的嘈雜聲中，
+我淡出於包裹著我的人群的嘈雜聲。
 
-緩緩地，漸漸地消失。
-
-I fade softly against the murmurs
-
-of the crowds that encompass me.
+I fade softly against the murmurs of the crowds that encompass me.
 
 <br>
 
@@ -40,19 +32,19 @@ of the crowds that encompass me.
 
 卻沒人聽的到它的聲音。
 
-連我都聽不清。
+我聽不清。
 
 Wooden chimes are faintly heard
 
-against the howling wind
+against the howling wind.
 
-unknown to me.
+Unknown to me.
 
 ## 主歌-2
 
 當我閉上雙眼，
 
-我看見好多東西。
+我看見。
 
 When I close my eyes,
 
@@ -78,7 +70,7 @@ long ago when things were simpler.
 
 晚上作夢時，我知道鏡子裡的是我，
 
-白天醒著時，我卻開始懷疑自己。
+白天醒著時，我卻是開始懷疑自己。
 
 I see myself in the mirror.
 
@@ -88,21 +80,17 @@ but in the daylight, I can never be sure.
 
 <br>
 
-艷麗的藍，斑斕的紅在天上，
-
-但老實說，再怎麼美麗，
+艷麗的青與赤在天上飛舞，但老實說，再怎麼美麗，
 
 我都從沒抬頭看過。
 
-Brilliant blues and pinks cascade
-
-across a sky that, to be honest,
+Brilliant blues and pinks cascade across a sky that, to be honest,
 
 I never look up at.
 
 <br>
 
-沒什麼好稀奇的。
+沒什麼好特別的。
 
 This is nothing profound.
 
@@ -110,7 +98,7 @@ This is nothing profound.
 
 當我閉上雙眼，
 
-我夢見好多東西。
+我夢見。
 
 When I close my eyes,
 
@@ -118,13 +106,13 @@ I dream of things.
 
 <br>
 
-但他們也只有
+但他們只不過
 
-在自己心中
+僅只於
 
-感覺好像
+我心中
 
-知道而已
+的感受。
 
 But they're only familiar
 
