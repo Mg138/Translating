@@ -19,7 +19,6 @@ def main():
     files = read_files(path)
 
     for file in files:
-        name = file.name
         directory = file
         html = directory.joinpath('index.html')
 
