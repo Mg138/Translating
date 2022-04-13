@@ -12,7 +12,7 @@ Is it really that obvious?
 
 我日日夜夜盯著你，因為
 
-你看我的姿勢，就是我想要的
+你看我的模樣，就是我想要的
 
 I've been eying you day and night, because
 
@@ -28,9 +28,9 @@ And every day I fall, fall, fall for you
 
 我們用同一艘船
 
-走到哪都共用
+從沒有到全都
 
-And we’re in the same boat
+And we're in the same boat
 
 from nothing to everything
 
@@ -57,13 +57,13 @@ Are we much the same?
 
 還在尋找那個能夠修好我們的人
 
-And we're still looking for some pony to make us whole again
+And we're looking for somepony to make us whole again
 
 
 
 我知道你是我的星光
 
-And I know that you’re my Starlight
+And I know that you're my Starlight
 
 
 
@@ -72,7 +72,7 @@ And I know that you’re my Starlight
 The magic to all I am
 
 ## 主歌-2
-請不要，問我如何
+請不要，問我過如何
 
 Please don't ask how my day was
 
@@ -84,7 +84,7 @@ Sincerity would fail me
 
 
 
-還是喜歡把戲，帽子拿下就是
+還是喜歡把戲，拿下帽子就在
 
 Still like to play tricks right outta the hat
 

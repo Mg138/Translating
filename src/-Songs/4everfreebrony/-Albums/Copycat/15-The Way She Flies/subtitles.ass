@@ -16,9 +16,9 @@ Video File: assets/source/The Way She Flies.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 2
-Video Position: 93
+Scroll Position: 73
+Active Line: 80
+Video Position: 8015
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,78 +41,74 @@ Dialogue: 0,0:00:08.99,0:00:11.56,Rainbow,,0,0,0,,{\alpha&H40&}那現在你知�
 Dialogue: 0,0:00:12.23,0:00:14.53,Rainbow,,0,0,0,,{\alpha&H40&}來，聽一個\Nlet's, hear one
 Dialogue: 0,0:00:32.25,0:00:34.05,Default,,0,0,0,,{\alpha&H40&}一...二...三...\N1... 2... 3...
 Dialogue: 0,0:00:34.05,0:00:34.82,Default,,0,0,0,,上！\NGO!
-Comment: 0,0:01:34.51,0:01:34.54,Default,,0,0,0,,## 主歌-1
-Dialogue: 0,0:01:34.51,0:01:35.21,Default,,0,0,0,,一道紅色\NFlash of red
-Dialogue: 0,0:01:35.21,0:01:36.58,Default,,0,0,0,,鬼神的她飛上天\Nthe spectral wonder takes flight
-Dialogue: 0,0:01:36.58,0:01:39.04,Default,,0,0,0,,她很確定，她很堅定，她感覺很爽\Nand she's ready and she's steady and she's feelin' just right
-Dialogue: 0,0:01:39.04,0:01:41.65,Default,,0,0,0,,她有熱情，有動力，有決心要贏\NShe got the passion, the drive, the tenacity to win
-Dialogue: 0,0:01:41.65,0:01:44.12,Default,,0,0,0,,{\alpha&H40&}而只要十秒她就能讓你頭昏眼花\Nand in 10 seconds flat she'll take your head for a spin
-Dialogue: 0,0:01:48.45,0:01:51.46,Default,,0,0,0,,天如火燒，彷彿漸漸變成一顆密桃\NSky is burnin' and it's turnin' to a tangerine peach
-Dialogue: 0,0:01:51.46,0:01:53.83,Default,,0,0,0,,好像在海南島沙灘的太陽下山\Nlike a sun slowly settin' over Huntington Beach
-Dialogue: 0,0:01:53.83,0:01:55.23,Default,,0,0,0,,她的肚子裡有顆火\NShe's got a fire in her belly
-Dialogue: 0,0:01:54.99,0:01:55.46,Rainbow,,0,0,0,,嘿！\NYep!
-Dialogue: 0,0:01:55.23,0:01:56.39,Default,,0,0,0,,眼睛裡有火\Nfire in her eyes
-Dialogue: 0,0:01:56.26,0:01:56.83,Rainbow,,0,0,0,,對！\NYes!
-Dialogue: 0,0:01:56.39,0:01:58.90,Default,,0,0,0,,超音速的步伐在空中留下火跡\Nsupersonic strut leaves a fire in the skies
-Dialogue: 0,0:01:59.16,0:02:01.27,Default,,0,0,0,,越發亮，變成溫暖的金光\NBrighten up to a warm and golden glow
-Dialogue: 0,0:02:01.27,0:02:03.90,Default,,0,0,0,,讓他充滿你的從腳到頭\Nlet it fill you all up from your head to your toe
-Dialogue: 0,0:02:04.10,0:02:06.34,Default,,0,0,0,,讓那太陽閃在你頭\Nlet that sun shine down on ya
-Dialogue: 0,0:02:06.37,0:02:08.87,Default,,0,0,0,,大家都叫大聲點\Neverypony scream louder
-Comment: 0,0:02:08.87,0:02:08.91,Default,,0,0,0,,## 副歌
-Dialogue: 0,0:02:08.87,0:02:13.61,Default,,0,0,0,,七彩在天空中\N7 colors in the sky
-Dialogue: 0,0:02:13.61,0:02:18.28,Default,,0,0,0,,看他飛過天空\NWatch her dash on by
-Dialogue: 0,0:02:18.28,0:02:20.92,Default,,0,0,0,,天堂被遮住\NThe heavens are covered
-Dialogue: 0,0:02:20.92,0:02:23.46,Default,,0,0,0,,被如此的景色\Nwith so many wonders
-Dialogue: 0,0:02:23.46,0:02:31.20,Default,,0,0,0,,我愛她的飛相\NI love the way she flies
-Comment: 0,0:02:31.46,0:02:31.50,Default,,0,0,0,,## 間奏
-Dialogue: 0,0:02:31.46,0:02:34.70,Rainbow,,0,0,0,,{\alpha&H40&}吼，你要這樣給我喊加油？\NUrgh, you're gonna cheer for me like that?
-Dialogue: 0,0:02:35.40,0:02:36.00,Rainbow,,0,0,0,,{\alpha&H40&}大聲點\NLouder
-Dialogue: 0,0:02:36.00,0:02:36.54,Flutter,,0,0,0,,{\alpha&H40&}耶\NYay
-Dialogue: 0,0:02:36.54,0:02:37.14,Rainbow,,0,0,0,,{\alpha&H40&}大聲點\NLouder
-Dialogue: 0,0:02:37.14,0:02:37.87,Flutter,,0,0,0,,{\alpha&H40&}耶\NYay
-Dialogue: 0,0:02:37.87,0:02:40.31,Rainbow,,0,0,0,,{\alpha&H40&}大聲點！！！\NLOUDER!!!
-Comment: 0,0:02:40.31,0:02:40.34,Default,,0,0,0,,## 主歌-2
-Dialogue: 0,0:02:40.31,0:02:41.81,Default,,0,0,0,,有片青青草地\NWe got the green green grass
-Dialogue: 0,0:02:41.81,0:02:43.04,Default,,0,0,0,,還有翡翠綠樹\Nand the emerald trees
-Dialogue: 0,0:02:43.04,0:02:45.48,Default,,0,0,0,,還有平原上的兔子、鳥兒，跟蜜蜂\Nand the meadows with the bunnies and the birds and the bees
-Dialogue: 0,0:02:45.48,0:02:47.88,Default,,0,0,0,,而我，真希望能從她的角度看看\Nand I wish I could see it from her point of view
-Dialogue: 0,0:02:47.88,0:02:50.45,Default,,0,0,0,,直接從那，一大片藍天的中間\Nstraight up there in the middle of the big ol' blue
-Dialogue: 0,0:02:50.45,0:02:52.75,Default,,0,0,0,,要是可以我一定還會帶你去\Nand I would if I could and I would take you too
-Dialogue: 0,0:02:52.75,0:02:55.15,Default,,0,0,0,,飛過永恆森林，到坎特拉城去\Nover the Everfree Forest to a Canterlot view
-Dialogue: 0,0:02:55.15,0:02:57.69,Default,,0,0,0,,{\alpha&H40&}飛到高空中，進入靛色的夜\NFlying high up in the sky into the indigo night
-Dialogue: 0,0:02:57.69,0:03:00.49,Default,,0,0,0,,{\alpha&H60&}星星映照在你的紫色目珠，沒有礙眼物\Nwith the stars in your violet eyes and no care in sight
-Dialogue: 0,0:03:00.96,0:03:04.30,Default,,0,0,0,,我沒有任何煩惱\NI ain't got no care in sight
-Dialogue: 0,0:03:04.30,0:03:05.66,Default,,0,0,0,,{\alpha&H40&}當我和你\Nwhen I'm with you
-Dialogue: 0,0:03:05.66,0:03:09.30,Default,,0,0,0,,我沒有任何煩惱\NI ain't got no care in sight
-Dialogue: 0,0:03:09.30,0:03:10.60,Default,,0,0,0,,{\alpha&H40&}當我和你\Nwhen I'm with you
-Dialogue: 0,0:03:10.60,0:03:14.27,Default,,0,0,0,,我沒有任何煩惱\NI ain't got no care in sight
-Dialogue: 0,0:03:14.27,0:03:16.04,Default,,0,0,0,,當我和你\Nwhen I'm with you
-Dialogue: 0,0:03:16.78,0:03:21.55,Default,,0,0,0,,當我和你\NWhen I'm with you
-Comment: 0,0:03:22.38,0:03:22.41,Default,,0,0,0,,## 重複: 副歌
-Dialogue: 0,0:03:22.38,0:03:27.12,Default,,0,0,0,,七彩在天空中\N7 colors in the sky
-Dialogue: 0,0:03:27.12,0:03:31.79,Default,,0,0,0,,看他飛過天空\NWatch her dash on by
-Dialogue: 0,0:03:31.79,0:03:34.43,Default,,0,0,0,,天堂被遮住\NThe heavens are covered
-Dialogue: 0,0:03:34.43,0:03:36.97,Default,,0,0,0,,被如此的景色\Nwith so many wonders
-Dialogue: 0,0:03:36.97,0:03:42.67,Default,,0,0,0,,我愛她的飛相\NI love the way she flies
-Dialogue: 0,0:03:41.67,0:03:42.67,Default,,0,0,0,,上吧！\NC'mon!
-Comment: 0,0:03:42.67,0:03:42.70,Default,,0,0,0,,## 獨奏
-Comment: 0,0:04:04.72,0:04:04.76,Default,,0,0,0,,## 橋段
-Dialogue: 0,0:04:04.72,0:04:09.19,Default,,0,0,0,,{\alpha&H40&}天使飛\NAngels fly
-Dialogue: 0,0:04:09.19,0:04:14.00,Default,,0,0,0,,{\alpha&H40&}衝向邊\NDashing by
-Dialogue: 0,0:04:14.00,0:04:18.97,Default,,0,0,0,,{\alpha&H40&}閉上眼\NClose your eyes
-Dialogue: 0,0:04:18.97,0:04:24.08,Default,,0,0,0,,{\alpha&H40&}擁抱天\NFeel the skies
-Comment: 0,0:04:24.08,0:04:24.11,Default,,0,0,0,,## 重複: 副歌
-Dialogue: 0,0:04:24.08,0:04:28.82,Default,,0,0,0,,七彩在天空中\N7 colors in the sky
-Dialogue: 0,0:04:28.82,0:04:33.49,Default,,0,0,0,,看他飛過天空\NWatch her dash on by
-Dialogue: 0,0:04:33.49,0:04:36.13,Default,,0,0,0,,天堂被遮住\NThe heavens are covered
-Dialogue: 0,0:04:36.13,0:04:38.67,Default,,0,0,0,,被如此的景色\Nwith so many wonders
-Dialogue: 0,0:04:38.67,0:04:50.87,Default,,0,0,0,,我愛她的飛相\NI love the way she flies
-Dialogue: 0,0:04:44.06,0:04:48.43,Default,,0,0,0,,{\alpha&H40&}天使飛\NAngels fly
-Dialogue: 0,0:04:48.43,0:04:53.47,Default,,0,0,0,,{\alpha&H40&}衝向邊\NDashing by
-Dialogue: 0,0:04:53.47,0:04:58.51,Default,,0,0,0,,{\alpha&H40&}閉上眼\NClose your eyes
-Dialogue: 0,0:04:58.51,0:05:04.82,Default,,0,0,0,,{\alpha&H40&}擁抱天\NFeel the skies
-Comment: 0,0:05:09.12,0:05:09.15,Default,,0,0,0,,## 尾奏
-Dialogue: 0,0:05:09.12,0:05:11.99,Outro,,0,0,0,,（別忘了要訂閱！）
-Dialogue: 0,0:05:11.99,0:05:15.76,Outro,,0,0,0,,還有，看看底下關於 Equestria LA 的資訊
-Dialogue: 0,0:05:16.19,0:05:18.36,Outro,,0,0,0,,以及馬迷俱樂部
-Dialogue: 0,0:05:20.70,0:05:24.24,Outro,,0,0,0,,... 對，這是 comic sans*!\N\N{\fs46}* comic sans: 一個被厭惡的字體\N相當於標楷體或細明體
+Comment: 0,0:00:34.85,0:00:34.88,Default,,0,0,0,,## 主歌-1
+Dialogue: 0,0:00:34.85,0:00:35.55,Default,,0,0,0,,一道紅色\NFlash of red
+Dialogue: 0,0:00:35.55,0:00:36.92,Default,,0,0,0,,鬼神的她飛上天\Nthe spectral wonder takes flight
+Dialogue: 0,0:00:36.92,0:00:39.38,Default,,0,0,0,,她很確定，她很堅定，她感覺很爽\Nand she's ready and she's steady and she's feelin' just right
+Dialogue: 0,0:00:39.38,0:00:41.99,Default,,0,0,0,,她有熱情，有動力，有決心要贏\NShe got the passion, the drive, the tenacity to win
+Dialogue: 0,0:00:41.99,0:00:44.46,Default,,0,0,0,,{\alpha&H40&}而只要十秒她就能讓你頭昏眼花\Nand in 10 seconds flat she'll take your head for a spin
+Dialogue: 0,0:00:48.79,0:00:51.80,Default,,0,0,0,,天如火燒，彷彿漸漸變成一顆密桃\NSky is burnin' and it's turnin' to a tangerine peach
+Dialogue: 0,0:00:51.80,0:00:54.17,Default,,0,0,0,,好像在海南島沙灘的太陽下山\Nlike a sun slowly settin' over Huntington Beach
+Dialogue: 0,0:00:54.17,0:00:55.57,Default,,0,0,0,,她的肚子裡有顆火\NShe's got a fire in her belly
+Dialogue: 0,0:00:55.33,0:00:55.80,Rainbow,,0,0,0,,嘿！\NYep!
+Dialogue: 0,0:00:55.57,0:00:56.73,Default,,0,0,0,,眼睛裡有火\Nfire in her eyes
+Dialogue: 0,0:00:56.60,0:00:57.17,Rainbow,,0,0,0,,對！\NYes!
+Dialogue: 0,0:00:56.73,0:00:59.24,Default,,0,0,0,,超音速的步伐在空中留下火跡\Nsupersonic strut leaves a fire in the skies
+Dialogue: 0,0:00:59.50,0:01:01.61,Default,,0,0,0,,越發亮，變成溫暖的金光\NBrighten up to a warm and golden glow
+Dialogue: 0,0:01:01.61,0:01:04.24,Default,,0,0,0,,讓他充滿你的從腳到頭\Nlet it fill you all up from your head to your toe
+Dialogue: 0,0:01:04.44,0:01:06.68,Default,,0,0,0,,讓那太陽閃在你頭\Nlet that sun shine down on ya
+Dialogue: 0,0:01:06.71,0:01:09.21,Default,,0,0,0,,大家都叫大聲點\Neverypony scream louder
+Comment: 0,0:01:09.21,0:01:09.25,Default,,0,0,0,,## 副歌
+Dialogue: 0,0:01:09.21,0:01:13.95,Default,,0,0,0,,七彩在天空中\N7 colors in the sky
+Dialogue: 0,0:01:13.95,0:01:18.62,Default,,0,0,0,,看他飛過天空\NWatch her dash on by
+Dialogue: 0,0:01:18.62,0:01:21.26,Default,,0,0,0,,天堂被遮住\NThe heavens are covered
+Dialogue: 0,0:01:21.26,0:01:23.80,Default,,0,0,0,,被如此的景色\Nwith so many wonders
+Dialogue: 0,0:01:23.80,0:01:31.54,Default,,0,0,0,,我愛她的飛相\NI love the way she flies
+Comment: 0,0:01:32.14,0:01:32.17,Default,,0,0,0,,## 間奏
+Dialogue: 0,0:01:32.14,0:01:35.38,Rainbow,,0,0,0,,{\alpha&H40&}吼，你要這樣給我喊加油？\NUrgh, you're gonna cheer for me like that?
+Dialogue: 0,0:01:35.64,0:01:36.24,Rainbow,,0,0,0,,{\alpha&H40&}大聲點\NLouder
+Dialogue: 0,0:01:36.24,0:01:36.78,Flutter,,0,0,0,,{\alpha&H40&}耶\NYay
+Dialogue: 0,0:01:36.78,0:01:37.38,Rainbow,,0,0,0,,{\alpha&H40&}大聲點\NLouder
+Dialogue: 0,0:01:37.38,0:01:38.11,Flutter,,0,0,0,,{\alpha&H40&}耶\NYay
+Dialogue: 0,0:01:38.11,0:01:40.55,Rainbow,,0,0,0,,{\alpha&H40&}大聲點！！！\NLOUDER!!!
+Comment: 0,0:01:40.61,0:01:40.64,Default,,0,0,0,,## 主歌-2
+Dialogue: 0,0:01:40.61,0:01:42.11,Default,,0,0,0,,有片青青草地\NWe got the green green grass
+Dialogue: 0,0:01:42.11,0:01:43.34,Default,,0,0,0,,還有翡翠綠樹\Nand the emerald trees
+Dialogue: 0,0:01:43.34,0:01:45.78,Default,,0,0,0,,還有平原上的兔子、鳥兒，跟蜜蜂\Nand the meadows with the bunnies and the birds and the bees
+Dialogue: 0,0:01:45.78,0:01:48.18,Default,,0,0,0,,而我，真希望能從她的角度看看\Nand I wish I could see it from her point of view
+Dialogue: 0,0:01:48.18,0:01:50.75,Default,,0,0,0,,直接從那，一大片藍天的中間\Nstraight up there in the middle of the big ol' blue
+Dialogue: 0,0:01:50.75,0:01:53.05,Default,,0,0,0,,要是可以我一定還會帶你去\Nand I would if I could and I would take you too
+Dialogue: 0,0:01:53.05,0:01:55.45,Default,,0,0,0,,飛過永恆森林，到坎特拉城去\Nover the Everfree Forest to a Canterlot view
+Dialogue: 0,0:01:55.45,0:01:57.99,Default,,0,0,0,,{\alpha&H40&}飛到高空中，進入靛色的夜\NFlying high up in the sky into the indigo night
+Dialogue: 0,0:01:57.99,0:02:00.79,Default,,0,0,0,,{\alpha&H60&}星星映照在你的紫色目珠，沒有礙眼物\Nwith the stars in your violet eyes and no care in sight
+Dialogue: 0,0:02:01.26,0:02:04.60,Default,,0,0,0,,我沒有任何煩惱\NI ain't got no care in sight
+Dialogue: 0,0:02:04.60,0:02:05.96,Default,,0,0,0,,{\alpha&H40&}當我和你\Nwhen I'm with you
+Dialogue: 0,0:02:05.96,0:02:09.60,Default,,0,0,0,,我沒有任何煩惱\NI ain't got no care in sight
+Dialogue: 0,0:02:09.60,0:02:10.90,Default,,0,0,0,,{\alpha&H40&}當我和你\Nwhen I'm with you
+Dialogue: 0,0:02:10.90,0:02:14.57,Default,,0,0,0,,我沒有任何煩惱\NI ain't got no care in sight
+Dialogue: 0,0:02:14.57,0:02:16.34,Default,,0,0,0,,當我和你\Nwhen I'm with you
+Dialogue: 0,0:02:17.08,0:02:21.85,Default,,0,0,0,,當我和你\NWhen I'm with you
+Comment: 0,0:02:22.85,0:02:22.88,Default,,0,0,0,,## 重複: 副歌
+Dialogue: 0,0:02:22.85,0:02:27.59,Default,,0,0,0,,七彩在天空中\N7 colors in the sky
+Dialogue: 0,0:02:27.59,0:02:32.26,Default,,0,0,0,,看他飛過天空\NWatch her dash on by
+Dialogue: 0,0:02:32.26,0:02:34.90,Default,,0,0,0,,天堂被遮住\NThe heavens are covered
+Dialogue: 0,0:02:34.90,0:02:37.44,Default,,0,0,0,,被如此的景色\Nwith so many wonders
+Dialogue: 0,0:02:37.44,0:02:43.14,Default,,0,0,0,,我愛她的飛相\NI love the way she flies
+Dialogue: 0,0:02:42.14,0:02:43.14,Default,,0,0,0,,上吧！\NC'mon!
+Comment: 0,0:02:43.14,0:02:43.18,Default,,0,0,0,,## 獨奏
+Comment: 0,0:03:04.93,0:03:04.97,Default,,0,0,0,,## 橋段
+Dialogue: 0,0:03:04.93,0:03:09.40,Default,,0,0,0,,{\alpha&H40&}天使飛\NAngels fly
+Dialogue: 0,0:03:09.40,0:03:14.21,Default,,0,0,0,,{\alpha&H40&}衝向邊\NDashing by
+Dialogue: 0,0:03:14.21,0:03:19.18,Default,,0,0,0,,{\alpha&H40&}閉上眼\NClose your eyes
+Dialogue: 0,0:03:19.18,0:03:24.29,Default,,0,0,0,,{\alpha&H40&}擁抱天\NFeel the skies
+Comment: 0,0:03:24.42,0:03:24.45,Default,,0,0,0,,## 重複: 副歌
+Dialogue: 0,0:03:24.42,0:03:29.16,Default,,0,0,0,,七彩在天空中\N7 colors in the sky
+Dialogue: 0,0:03:29.16,0:03:33.83,Default,,0,0,0,,看他飛過天空\NWatch her dash on by
+Dialogue: 0,0:03:33.83,0:03:36.47,Default,,0,0,0,,天堂被遮住\NThe heavens are covered
+Dialogue: 0,0:03:36.47,0:03:39.01,Default,,0,0,0,,被如此的景色\Nwith so many wonders
+Dialogue: 0,0:03:39.01,0:03:51.21,Default,,0,0,0,,我愛她的飛相\NI love the way she flies
+Dialogue: 0,0:03:44.40,0:03:48.77,Default,,0,0,0,,{\alpha&H60&}天使飛\NAngels fly
+Dialogue: 0,0:03:48.77,0:03:53.81,Default,,0,0,0,,{\alpha&H60&}衝向邊\NDashing by
+Dialogue: 0,0:03:53.81,0:03:58.85,Default,,0,0,0,,{\alpha&H60&}閉上眼\NClose your eyes
+Dialogue: 0,0:03:58.85,0:04:05.16,Default,,0,0,0,,{\alpha&H60&}擁抱天\NFeel the skies
+Comment: 0,0:04:06.52,0:04:06.56,Default,,0,0,0,,## 尾奏
