@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Index of #TITLE</title>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="/css/styles.css" />
+		<style>
+			table {
+				border-collapse: collapse;
+				width: 100%;
+			}
+			img {
+				width: 24px;
+				height: 24px;
+				margin-right: 10px;
+			}
+			thead th {
+				vertical-align: bottom;
+			}
+			th {
+				text-align: inherit;
+			}
+			td {
+				color: var(--gray);
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="section font-mono">
+			<div>
+				<h1>{TITLE}</h1>
+				<div style="padding-left: 15px;">
+					<a class="inline-flex font-mono" href="../">
+						<img src=".icons/go_up.svg"/>{PARENT}
+					</a>
+				</div>
+			</div>
+			<div style="padding: 15px; padding-bottom: 0px;">
+				<table>
+					<thead>
+						<tr>
+							<th style="width: 50%">{FILENAME}</th>
+							<th style="width: 15%">{SIZE}</th>
+							<th style="width: 35%">{MODIFIED}</th>
+						</tr>
+					</thead>
+					<tbody>
+						#FILES
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>

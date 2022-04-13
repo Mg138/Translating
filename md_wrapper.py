@@ -1,12 +1,13 @@
 from pathlib import Path
 from shutil import move
+import markdown
 
 __template = Path('md_wrapper_template.html').read_text()
 
 
-def to_html(path: Path, relative: Path):
-    return __template.replace('{PATH}', relative.__str__()) \
-                     .replace('{NAME}', path.parent.name + '/' + path.name)
+def to_html(path: Path, md):
+    return __template.replace('{NAME}', path.parent.name + '/' + path.name)\
+                     .replace('{MD}', md)
 
 
 def read_files(path: Path):
@@ -20,21 +21,17 @@ def main():
     for file in files:
         name = file.name
         directory = file
+        html = directory.joinpath('index.html')
 
         filedata = file.read_text()
 
-        # fix newline
-        filedata = filedata.replace('\n\n\n', '\n\n<br>\n')
+        md = markdown.markdown(filedata)
 
-        file.write_text(filedata)
-
-        file = file.rename('__temp')
+        file.unlink()
 
         directory.mkdir()
-        move(file, directory.joinpath(name))
+        html.write_text(to_html(html, md))
 
-        index = directory.joinpath('index.html')
-        index.write_text(to_html(directory, Path(name)))
 
 
 main()
