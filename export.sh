@@ -1,6 +1,7 @@
 #!/usr/bin/sh
 
 python export.py
+./fix_time.sh
 cd docs
 index .
 touch .nojekyll
