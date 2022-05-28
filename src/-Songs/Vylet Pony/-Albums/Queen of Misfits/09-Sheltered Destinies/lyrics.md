@@ -24,7 +24,7 @@ between the skies, our guides in flight
 
 在我們這受護的使命中
 
-我們能夠重建之前
+我們能夠重連之前
 
 And between our Sheltered Destinies
 
@@ -44,7 +44,7 @@ do our hearts create a peace
 
 在我們這受護的使命底
 
-一種魔力竄出
+一種魅力竄出
 
 And beneath our Sheltered Destinies
 
@@ -64,7 +64,7 @@ a symbol of life itself
 
 ## 間奏
 
-## 重複: 副歌
+## 重複: 副歌(後半)
 
 ## 橋段
 
@@ -80,7 +80,7 @@ between the stars
 
 你是否能夠聽見
 
-離我如此多里遠
+離我如此多里遠？
 
 Can you hear my voice
 
